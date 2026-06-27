@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Mont Blanc",
+  "elevation_m": 4807,
+  "location": "Alpes — Massif du Mont-Blanc",
+  "country": "France / Italie",
+  "summary": "Point culminant des Alpes et de l'Europe occidentale, le Mont Blanc domine la vallée de Chamonix de près de 3 800 mètres. Sa calotte glaciaire en fait l'un des sommets les plus emblématiques du continent.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Situé à la frontière franco-italienne, le Mont Blanc culmine à 4 807 m (altitude variable selon l'enneigement du sommet). Il domine Chamonix-Mont-Blanc côté français et Courmayeur côté italien."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Sa première ascension, le 8 août 1786 par Jacques Balmat et le docteur Michel Paccard, marque la naissance de l'alpinisme moderne. La voie normale par le refuge du Goûter et l'arête des Bosses reste la plus fréquentée."
+    },
+    {
+      "title": "À savoir",
+      "body": "L'ascension exige une acclimatation, une météo stable et un équipement de haute montagne. Le massif abrite de nombreux 4 000 m (Mont Maudit, Mont Blanc du Tacul, Grandes Jorasses à proximité)."
+    }
+  ],
+  "first_ascent": "8 août 1786 — Jacques Balmat et Michel Paccard",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

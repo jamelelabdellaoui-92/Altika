@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "name": "Aiguille du Midi",
+  "elevation_m": 3842,
+  "location": "Alpes — Massif du Mont-Blanc",
+  "country": "France",
+  "summary": "Sommet rocheux emblématique au-dessus de Chamonix, l'Aiguille du Midi est accessible par un téléphérique spectaculaire et offre un panorama direct sur le Mont Blanc.",
+  "sections": [
+    {
+      "title": "Accès",
+      "body": "Le téléphérique de l'Aiguille du Midi, inauguré en 1955, relie Chamonix (1 035 m) à 3 777 m en deux tronçons. Une passerelle et le « Pas dans le Vide » offrent une vue vertigineuse."
+    },
+    {
+      "title": "Panorama",
+      "body": "Depuis la terrasse, on domine la Mer de Glace, les Grandes Jorasses et le Mont Blanc. C'est aussi le départ de la Vallée Blanche, descente glaciaire mythique vers Chamonix."
+    }
+  ],
+  "first_ascent": "1818 — première ascension documentée",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

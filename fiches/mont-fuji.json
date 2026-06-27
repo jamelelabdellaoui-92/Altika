@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Mont Fuji",
+  "elevation_m": 3776,
+  "location": "Honshū — entre Shizuoka et Yamanashi",
+  "country": "Japon",
+  "summary": "Plus haut sommet du Japon, le Mont Fuji (Fuji-san) est un stratovolcan au cône presque parfait, lieu sacré et symbole national, inscrit au patrimoine mondial de l'UNESCO.",
+  "sections": [
+    {
+      "title": "Volcan",
+      "body": "Le Fuji est un volcan actif (dernière éruption en 1707, dite de l'ère Hōei). Son cône symétrique, souvent enneigé, est visible de Tokyo par temps clair."
+    },
+    {
+      "title": "Ascension",
+      "body": "La saison d'ascension officielle s'étend de début juillet à début septembre. Quatre voies principales mènent au sommet ; la plus fréquentée part de la 5e station de Yoshida."
+    },
+    {
+      "title": "Culture",
+      "body": "Lieu de pèlerinage shintō et bouddhiste, le Fuji a inspiré d'innombrables œuvres, dont les estampes de Hokusai (« Trente-six vues du mont Fuji »)."
+    }
+  ],
+  "first_ascent": "663 — ascension attribuée à un moine (en-no-Gyōja, traditionnellement)",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}
