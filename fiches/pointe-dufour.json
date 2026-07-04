@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Pointe Dufour (Mont Rose)",
+  "elevation_m": 4634,
+  "location": "Alpes pennines — Massif du Mont Rose",
+  "country": "Suisse",
+  "summary": "Point culminant de la Suisse et du massif du Mont Rose, la pointe Dufour est le deuxième sommet des Alpes derrière le mont Blanc.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse dans le sud-est du Valais, à 130 m seulement du Grenzgipfel, point le plus haut de la frontière italo-suisse. Tout près, la cabane Regina Margherita (4 554 m) est le plus haut refuge gardé des Alpes."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 1er août 1855 par Charles Hudson, John Birkbeck, Edward Stevenson et les frères Smyth, avec les guides Mathias et Johann Zumtaugwald et Ulrich Lauener. La voie normale remonte le glacier du Grenz depuis la cabane du Mont-Rose."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le sommet a été baptisé en 1863 par le Conseil fédéral en l'honneur du général et cartographe Guillaume-Henri Dufour — un hommage rare à un vivant."
+    }
+  ],
+  "first_ascent": "1er août 1855 — Charles Hudson et compagnons, avec les guides Zumtaugwald et Lauener",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

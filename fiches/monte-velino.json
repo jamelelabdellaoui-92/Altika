@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Monte Velino",
+  "elevation_m": 2480,
+  "location": "Apennins — Chaîne Velino-Sirente (Abruzzes)",
+  "country": "Italie",
+  "summary": "Troisième grand massif des Apennins des Abruzzes après le Gran Sasso et la Majella, le Velino dresse sa pyramide pierreuse au-dessus de la plaine du Fucino, aux portes du Latium.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Point culminant de la chaîne Velino-Sirente, la montagne présente un caractère presque désertique de ravins et d'éboulis. Elle est protégée par le parc naturel régional Sirente-Velino."
+    },
+    {
+      "title": "Nature",
+      "body": "Loups des Apennins et sangliers fréquentent le massif, l'un des bastions de la grande faune d'Italie centrale."
+    },
+    {
+      "title": "À savoir",
+      "body": "Sa masse isolée se repère de très loin — par temps clair, on l'aperçoit depuis les hauteurs de Rome."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

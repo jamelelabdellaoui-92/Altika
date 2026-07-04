@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Grand Pic de la Meije",
+  "elevation_m": 3982,
+  "location": "Alpes — Massif des Écrins",
+  "country": "France",
+  "summary": "La Meije fut le dernier grand sommet des Alpes à être conquis, après dix-sept tentatives entre 1870 et 1877. Aucune voie « facile » ne mène à son Grand Pic, qui veille sur La Grave et l'Oisans.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne dresse trois sommets principaux — Grand Pic, Doigt de Dieu et Meije Orientale — à la limite des Hautes-Alpes et de l'Isère. Ses glaciers reculent nettement depuis le milieu du XIXe siècle."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 16 août 1877 par Emmanuel Boileau de Castelnau avec Pierre Gaspard père et fils. La traversée des arêtes, réalisée intégralement dès 1885 puis dans le sens classique ouest-est en 1891, compte parmi les plus belles courses des Alpes."
+    },
+    {
+      "title": "À savoir",
+      "body": "Un effondrement lié à la dégradation du permafrost a modifié la voie normale en août 2018. Le compositeur Olivier Messiaen a puisé son inspiration face à la Meije."
+    }
+  ],
+  "first_ascent": "16 août 1877 — Emmanuel Boileau de Castelnau, avec Pierre Gaspard père et fils",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

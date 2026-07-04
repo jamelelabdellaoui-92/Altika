@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Torre del Llambrión",
+  "elevation_m": 2647,
+  "location": "Picos de Europa — Massif central",
+  "country": "Espagne",
+  "summary": "À deux mètres seulement du record de la Torre de Cerredo, le Llambrión est le deuxième sommet des Picos de Europa et le toit de la province de León.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse dans la sierra de Los Urrieles, au cœur du massif central des Picos, avec une proéminence d'environ 300 m."
+    },
+    {
+      "title": "Ascension",
+      "body": "Deux approches classiques : depuis le sud par le collado de Valdeón (Riaño), ou depuis Fuente Dé à l'ouest par les lacets des Tornos de Liordes. La difficulté reste modérée mais soutenue."
+    },
+    {
+      "title": "À savoir",
+      "body": "Contrairement à la Torre de Cerredo partagée avec les Asturies, le Llambrión est le premier sommet entièrement léonais."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

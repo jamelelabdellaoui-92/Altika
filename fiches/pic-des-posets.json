@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Pic des Posets",
+  "elevation_m": 3369,
+  "location": "Pyrénées — Massif des Posets",
+  "country": "Espagne",
+  "summary": "Deuxième sommet des Pyrénées après l'Aneto, le Posets règne sur son propre massif en Aragon, au-dessus de la vallée de Benasque.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se situe dans la province de Huesca. Schistes et calcaires sur socle granitique composent la montagne, dont le nom signifie « puits », en écho aux cavités du secteur."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 6 août 1856 par le Britannique Henry Halkett avec les guides Pierre Redonnet et Pierre Barrau. La voie normale, dont l'itinéraire dit de la « Rue Royale » depuis la vallée de Benasque, ne requiert pas de matériel technique en été."
+    },
+    {
+      "title": "À savoir",
+      "body": "Cinquième sommet d'Espagne, il reste bien moins fréquenté que l'Aneto voisin."
+    }
+  ],
+  "first_ascent": "6 août 1856 — Henry Halkett, avec Pierre Redonnet et Pierre Barrau",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

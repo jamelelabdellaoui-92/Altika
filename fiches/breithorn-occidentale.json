@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Breithorn occidental",
+  "elevation_m": 4164,
+  "location": "Alpes pennines — Zermatt / Val d'Aoste",
+  "country": "Suisse / Italie",
+  "summary": "Réputé le plus accessible des 4 000 des Alpes depuis l'ouverture du téléphérique du Petit Cervin en 1979, le Breithorn (« dent large ») étire cinq sommets le long d'une arête frontalière presque horizontale.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le versant italien, glaciaire et débonnaire, porte la voie normale ; le versant suisse aligne au contraire des faces nord raides et sérieuses. La roche est une serpentinite verdâtre."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 13 août 1813 par Henry Maynard avec Jean-Marie Couttet, Jean Gras et les Érin, par le versant sud-ouest. La voie normale actuelle demande environ deux heures depuis le téléphérique — glacier crevassé malgré tout."
+    },
+    {
+      "title": "À savoir",
+      "body": "Sa facilité relative en fait souvent le premier 4 000 des alpinistes débutants — la haute altitude et la météo y restent les vrais dangers."
+    }
+  ],
+  "first_ascent": "13 août 1813 — Henry Maynard, avec J.-M. Couttet, J. Gras et les frères Érin",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

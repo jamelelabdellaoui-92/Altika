@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Torre de Cerredo",
+  "elevation_m": 2649,
+  "location": "Picos de Europa — Massif des Urrieles",
+  "country": "Espagne",
+  "summary": "Point culminant des Picos de Europa et de toute la cordillère Cantabrique, la Torre de Cerredo se dresse à la limite des Asturies et de la Castille-et-León.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet calcaire surplombe de plus de 2 200 m les gorges du Cares, toutes proches — un des plus forts contrastes de relief d'Espagne."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 30 juin 1882 par le comte Aymar de Saint-Saud et Paul Labrouche avec Juan Suárez et François Bernat-Salles. La voie normale, dans un univers minéral de lapiaz, comporte de l'escalade facile."
+    },
+    {
+      "title": "À savoir",
+      "body": "Malgré sa modeste altitude, la montagne offre une vraie ambiance de haute montagne, la mer Cantabrique n'étant qu'à une vingtaine de kilomètres."
+    }
+  ],
+  "first_ascent": "30 juin 1882 — Aymar de Saint-Saud et Paul Labrouche, avec Juan Suárez et F. Bernat-Salles",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

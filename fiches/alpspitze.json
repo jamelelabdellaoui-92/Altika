@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Alpspitze",
+  "elevation_m": 2615,
+  "location": "Alpes bavaroises — Massif du Wetterstein",
+  "country": "Allemagne",
+  "summary": "Sa pyramide de calcaire est le symbole de Garmisch-Partenkirchen : l'Alpspitze, plus élégante que sa grande voisine la Zugspitze, attire randonneurs aguerris et amateurs de via ferrata.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne, en calcaire du Wetterstein (Trias), domine la station olympique bavaroise. Le téléphérique de l'Osterfelderkopf en facilite l'accès."
+    },
+    {
+      "title": "Ascension",
+      "body": "La via ferrata classique (Alpspitz-Ferrata) mène au sommet ; l'arête du Jubiläumsgrat la relie à la Zugspitze — une longue course cotée jusqu'au III."
+    },
+    {
+      "title": "À savoir",
+      "body": "La plateforme AlpspiX, deux passerelles d'acier croisées au-dessus d'un à-pic, surplombe le vide de 13 mètres près de la gare du téléphérique. La croix sommitale date de 1946."
+    }
+  ],
+  "first_ascent": "1825 — J. Burger",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

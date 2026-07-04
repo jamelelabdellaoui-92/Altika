@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Mont Perdu",
+  "elevation_m": 3349,
+  "location": "Pyrénées — Massif du Mont-Perdu",
+  "country": "Espagne",
+  "summary": "Troisième sommet des Pyrénées, le mont Perdu règne sur un massif calcaire spectaculaire, entre les canyons d'Ordesa et de Pineta. Le site est classé au patrimoine mondial de l'UNESCO.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, en Aragon, est invisible depuis les vallées françaises — d'où son nom. Sa pyramide, sculptée par les glaciers dans des calcaires marins soulevés il y a 40 millions d'années, porte encore un glacier en face nord-est."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Le sommet est atteint les 6-7 août 1802 par les guides Rondo et Laurens ; Ramond de Carbonnières, pionnier de l'exploration du massif, y parvient le 10 août 1802. Anne Lister en signe la première féminine en 1830."
+    },
+    {
+      "title": "À savoir",
+      "body": "Ramond de Carbonnières le décrivait comme « le premier des monts calcaires ». Le bien UNESCO « Pyrénées-Mont Perdu » est transfrontalier."
+    }
+  ],
+  "first_ascent": "6 août 1802 — guides Rondo et Laurens ; Ramond de Carbonnières le 10 août 1802",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

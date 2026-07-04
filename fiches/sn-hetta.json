@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Snøhetta",
+  "elevation_m": 2282,
+  "location": "Dovrefjell — Innlandet",
+  "country": "Norvège",
+  "summary": "Point culminant du massif du Dovrefjell et plus haut sommet norvégien hors du Jotunheimen, le Snøhetta fut longtemps tenu pour le toit de la Norvège, avant l'exploration du Jotunheimen.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne dresse quatre pointes — Stortoppen, Midttoppen, Hettpiggen et Vesttoppen — dans le parc national de Dovrefjell-Sunndalsfjella, l'un des derniers refuges européens du bœuf musqué."
+    },
+    {
+      "title": "Ascension",
+      "body": "L'ascension du sommet principal, depuis Snøheim, est une longue randonnée sans passage technique en été."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le célèbre cabinet d'architecture norvégien Snøhetta (opéra d'Oslo) a pris le nom de la montagne. Un mémorial au philosophe Peter Wessel Zapffe se trouve près du sommet ouest."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

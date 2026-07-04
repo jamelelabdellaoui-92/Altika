@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Moldoveanu",
+  "elevation_m": 2517,
+  "location": "Carpates — Monts Făgăraș",
+  "country": "Roumanie",
+  "summary": "Point culminant de la Roumanie, le Moldoveanu couronne la longue crête des Făgăraș, les « Alpes de Transylvanie », dans les Carpates méridionales.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse dans le județ d'Argeș, relié au pic Viștea Mare par une courte arête — un quart d'heure de marche sépare les deux cimes."
+    },
+    {
+      "title": "Randonnée",
+      "body": "L'ascension classique remonte la vallée de la Viștea depuis le versant nord, ou s'enchaîne lors de la grande traversée de la crête des Făgăraș, l'un des treks les plus réputés des Carpates."
+    },
+    {
+      "title": "À savoir",
+      "body": "Cabanes et refuges jalonnent les accès depuis Câmpulung et Curtea de Argeș ; la crête reste enneigée tard au printemps."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

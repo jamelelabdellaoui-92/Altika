@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Vârful Omu",
+  "elevation_m": 2506,
+  "location": "Carpates — Monts Bucegi",
+  "country": "Roumanie",
+  "summary": "Point culminant des monts Bucegi au-dessus de Bușteni et de la vallée de la Prahova, l'Omu porte à son sommet le plus haut refuge gardé des Carpates et une station météo habitée à l'année.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, un bloc rocheux plat aux confins de trois județe, connaît un vrai climat alpin : température moyenne annuelle de −1,8 °C et plus de 219 jours de neige par an."
+    },
+    {
+      "title": "Randonnée",
+      "body": "Plusieurs sentiers balisés y montent depuis Bușteni (par la vallée de Cerbului), le plateau des Bucegi ou Bran ; le téléphérique de Babele raccourcit l'approche."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le premier refuge en bois y fut bâti dès 1888 ; l'actuel, sans eau courante ni électricité, ouvre de mars à novembre avec une trentaine de couchages."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

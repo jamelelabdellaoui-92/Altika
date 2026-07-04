@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Weisshorn",
+  "elevation_m": 4505,
+  "location": "Alpes pennines — Val d'Anniviers / Zermatt",
+  "country": "Suisse",
+  "summary": "Tétraèdre presque parfait aux trois arêtes symétriques, le Weisshorn (« corne blanche ») passe pour l'un des plus beaux sommets des Alpes. C'est le plus haut sommet de la Suisse romande.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne sépare le val d'Anniviers de la vallée de Zermatt. Son gneiss d'Arolla, d'allure granitique, porte une croix métallique au sommet."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 19 août 1861 par le physicien John Tyndall avec Johann Joseph Bennen et Ulrich Wenger, par l'arête est — toujours la voie normale."
+    },
+    {
+      "title": "À savoir",
+      "body": "Il appartient à la « couronne impériale », le cercle de cinq 4 000 qui entoure Zinal avec le Zinalrothorn, l'Obergabelhorn, le Cervin et la Dent Blanche."
+    }
+  ],
+  "first_ascent": "19 août 1861 — John Tyndall, avec J. J. Bennen et U. Wenger",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

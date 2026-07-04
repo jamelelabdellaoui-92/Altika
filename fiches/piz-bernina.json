@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Piz Bernina",
+  "elevation_m": 3978,
+  "location": "Chaîne de la Bernina — Grisons",
+  "country": "Suisse",
+  "summary": "Point culminant des Alpes orientales et du canton des Grisons, le Piz Bernina domine Saint-Moritz et les glaciers de Morteratsch et de Tschierva.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet marque la ligne de partage des eaux entre Danube et Adige ; la frontière italienne passe juste au sud du pic principal. Son isolement topographique (138 km du Finsteraarhorn) est le deuxième des grands sommets alpins."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 13 septembre 1850 par le topographe Johann Coaz avec Jon et Lorenz Ragut Tscharner. L'arête nord, la Biancograt, surnommée « l'échelle du ciel », compte parmi les plus belles courses de neige des Alpes."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le train rouge de la Bernina (ligne UNESCO de la Rhétique) offre depuis Morteratsch la vue la plus fameuse sur la montagne."
+    }
+  ],
+  "first_ascent": "13 septembre 1850 — Johann Coaz, avec Jon et Lorenz Ragut Tscharner",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

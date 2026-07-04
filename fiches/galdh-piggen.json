@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Galdhøpiggen",
+  "elevation_m": 2459,
+  "location": "Jotunheimen — Innlandet",
+  "country": "Norvège",
+  "summary": "Toit de la Norvège, de la Scandinavie et de toute l'Europe du Nord, le Galdhøpiggen se dresse au cœur du Jotunheimen, la « demeure des géants » de la mythologie nordique.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, sur la commune de Lom, appartient au parc national du Jotunheimen. Son nom signifie « le pic du mont Galdhø »."
+    },
+    {
+      "title": "Ascension",
+      "body": "Première ascension en 1850 par Steinar Sulheim et deux compagnons de Lom. La voie classique part de Spiterstulen ou de Juvasshytta — cette dernière traverse un glacier et se fait encordé avec guide."
+    },
+    {
+      "title": "À savoir",
+      "body": "Il n'a été reconnu point culminant du pays qu'après un long duel de mesures avec le Glittertind voisin, dont la calotte de glace faussait l'altitude."
+    }
+  ],
+  "first_ascent": "1850 — Steinar Sulheim, S. Flaatten et L. Arnesen",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

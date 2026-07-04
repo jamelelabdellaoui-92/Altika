@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Pic du Canigou",
+  "elevation_m": 2785,
+  "location": "Pyrénées — Massif du Canigou",
+  "country": "France",
+  "summary": "Montagne sacrée des Catalans, le Canigou domine le Conflent et la plaine du Roussillon. Chaque année, des feux de la Saint-Jean sont allumés à son sommet, qui porte une croix forgée.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le pic se dresse dans les Pyrénées-Orientales. Deux fois par an, par réfraction atmosphérique, il est visible au coucher du soleil depuis Marseille, à 250 km — et il aurait été aperçu depuis les Écrins, à environ 440 km."
+    },
+    {
+      "title": "Histoire",
+      "body": "Vers 1280, le roi Pierre III d'Aragon en aurait fait l'ascension selon un récit médiéval — le chroniqueur affirme qu'il y vit un dragon surgir d'un lac, ce qui laisse douter qu'il ait atteint la cime."
+    },
+    {
+      "title": "À savoir",
+      "body": "Symbole catalan chanté par le poète Jacint Verdaguer, la montagne accueille la « course du Canigou » (34 km et plus de 4 200 m de dénivelé) et la tradition de la Trobada, qui rassemble des centaines de porteurs de fagots pour la flamme de la Saint-Jean."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

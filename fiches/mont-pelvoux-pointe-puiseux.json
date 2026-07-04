@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Mont Pelvoux (pointe Puiseux)",
+  "elevation_m": 3943,
+  "location": "Alpes — Massif des Écrins",
+  "country": "France",
+  "summary": "Longtemps pris pour le plus haut sommet des Alpes françaises, le mont Pelvoux domine Ailefroide et la Vallouise de ses quatre pointes, dont la pointe Puiseux est la plus élevée.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le mont Pelvoux aligne la pointe Puiseux, la pointe Durand, le Petit Pelvoux et les Trois Dents, dans les Hautes-Alpes."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Le sommet est gravi le 30 juillet 1828 par le capitaine Adrien Durand avec A. Liotard et J.-É. Matheoud (pointe Durand) ; la pointe Puiseux est atteinte en 1848 par Victor Puiseux. La traversée classique monte par le couloir Coolidge et descend par le glacier des Violettes."
+    },
+    {
+      "title": "À savoir",
+      "body": "Avant l'annexion de la Savoie, le Pelvoux passait pour le toit des Alpes françaises — le titre revint ensuite au mont Blanc, et dans le massif à la Barre des Écrins."
+    }
+  ],
+  "first_ascent": "30 juillet 1828 — capitaine Adrien Durand (pointe Durand) ; 1848 — Victor Puiseux (pointe Puiseux)",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

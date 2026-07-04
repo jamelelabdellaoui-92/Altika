@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Corno Grande (Gran Sasso)",
+  "elevation_m": 2878,
+  "location": "Apennins — Massif du Gran Sasso (Abruzzes)",
+  "country": "Italie",
+  "summary": "Point culminant des Apennins et de toute la péninsule italienne, le Corno Grande abrite sous sa cime le glacier du Calderone, le plus méridional d'Europe.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne dresse quatre pointes calcaires au-dessus de L'Aquila et de Teramo. Côté est, le « Paretone » plonge d'environ 2 000 m vers la plaine — l'une des plus grandes parois d'Italie."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 19 août 1573 par l'ingénieur Francesco De Marchi avec Simone Di Giulio et deux compagnons — l'une des toutes premières ascensions documentées d'un grand sommet européen. La voie normale part de Campo Imperatore."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le plateau de Campo Imperatore, à ses pieds, est surnommé le « petit Tibet » des Abruzzes."
+    }
+  ],
+  "first_ascent": "19 août 1573 — Francesco De Marchi, avec Simone Di Giulio et compagnons",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

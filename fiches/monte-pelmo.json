@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Monte Pelmo",
+  "elevation_m": 3172,
+  "location": "Dolomites — Val di Zoldo / Val Fiorentina",
+  "country": "Italie",
+  "summary": "Surnommé « le trône de Dieu » pour sa silhouette en fauteuil géant, le Pelmo fut en 1857 le premier grand sommet des Dolomites à être gravi.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne domine la vallée du Boite à l'est et les vals de Zoldo et Fiorentina à l'ouest, au cœur du bien UNESCO des Dolomites."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 19 septembre 1857 par l'Irlandais John Ball, premier président de l'Alpine Club, fondé la même année. La voie normale contourne la montagne par la vire Ball, passage exposé taillé dans la face sud. Reinhold Messner a gravi la face nord-ouest en 1973."
+    },
+    {
+      "title": "À savoir",
+      "body": "Des empreintes de dinosaures ont été identifiées sur une dalle effondrée au pied de la montagne, l'un des sites fossiles les plus fameux des Dolomites."
+    }
+  ],
+  "first_ascent": "19 septembre 1857 — John Ball",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

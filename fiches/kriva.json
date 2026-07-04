@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Kriváň",
+  "elevation_m": 2494,
+  "location": "Hautes Tatras",
+  "country": "Slovaquie",
+  "summary": "Sommet national des Slovaques, le Kriváň doit son nom à sa cime courbée — une légende dit qu'un ange l'aurait heurtée de l'aile. Il figure sur les pièces slovaques de 1, 2 et 5 centimes d'euro.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne de granodiorite se dresse à l'extrémité occidentale des Hautes Tatras, dans le parc national slovaque, en zone de protection maximale."
+    },
+    {
+      "title": "Randonnée",
+      "body": "Le sommet se gagne en 3 à 4 heures par sentiers balisés — le panorama court du Podhale polonais aux massifs carpatiques lointains."
+    },
+    {
+      "title": "À savoir",
+      "body": "Première ascension documentée le 4 août 1773 par le pasteur naturaliste Jónás András Czirbesz. Depuis 1955, une « montée nationale au Kriváň » commémore chaque année la résistance slovaque."
+    }
+  ],
+  "first_ascent": "4 août 1773 — Jónás András Czirbesz",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

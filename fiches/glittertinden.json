@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Glittertind",
+  "elevation_m": 2448,
+  "location": "Jotunheimen — Innlandet",
+  "country": "Norvège",
+  "summary": "Longtemps rival du Galdhøpiggen pour le titre de toit de la Norvège, le Glittertind a perdu la couronne en perdant sa glace : sa calotte sommitale, qui culminait plus haut, fond depuis un siècle.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet gneissique se dresse dans le Jotunheimen. Une carte de 1917 lui donnait encore 2 481 m contre 2 468 au Galdhøpiggen — la calotte comptait alors dans la mesure."
+    },
+    {
+      "title": "Ascension",
+      "body": "L'ascension, longue mais peu technique par beau temps, part généralement de Glitterheim ou de Spiterstulen."
+    },
+    {
+      "title": "À savoir",
+      "body": "Première ascension en 1841 par Wergeland et Sletten. Son nom vient de la rivière Glitra — « celle qui scintille »."
+    }
+  ],
+  "first_ascent": "1841 — Wergeland et Sletten",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

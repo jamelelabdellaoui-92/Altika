@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Mulhacén",
+  "elevation_m": 3479,
+  "location": "Sierra Nevada — Andalousie",
+  "country": "Espagne",
+  "summary": "Toit de la péninsule Ibérique, le Mulhacén domine Grenade et l'Alpujarra. Il doit son nom à Muley Hacén, avant-dernier roi maure de Grenade, qui serait enterré à son sommet selon la légende.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse dans la Sierra Nevada, au point de rencontre des communes de Güéjar-Sierra, Trevélez et Capileira. C'est la plus haute montagne d'Europe hors Alpes et Caucase."
+    },
+    {
+      "title": "Ascension",
+      "body": "Par le sud, l'ascension est longue mais sans difficulté technique en été, souvent depuis le col de la Caldera ou Trevélez ; en hiver, elle devient une vraie course de neige."
+    },
+    {
+      "title": "À savoir",
+      "body": "Sa proéminence d'environ 3 285 m est la troisième d'Europe occidentale, derrière le mont Blanc et l'Etna. Un astéroïde, (196640) Mulhacén, porte son nom."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

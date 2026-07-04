@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Pic du Midi de Bigorre",
+  "elevation_m": 2877,
+  "location": "Pyrénées — Bigorre",
+  "country": "France",
+  "summary": "Sentinelle des Pyrénées au-dessus de La Mongie, le pic du Midi de Bigorre porte depuis 1873 un observatoire d'astronomie et de météorologie mondialement connu.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet domine les communes de Sers et Bagnères-de-Bigorre, dans les Hautes-Pyrénées. Par temps clair, le panorama court de la côte basque à l'Ariège."
+    },
+    {
+      "title": "Sciences",
+      "body": "L'observatoire a servi aux études d'éclipses solaires et aux mesures atmosphériques depuis le XVIIIe siècle. Son antenne de 102 m diffuse télévision et radio sur un septième de la France métropolitaine."
+    },
+    {
+      "title": "À savoir",
+      "body": "Un téléphérique en deux tronçons monte depuis La Mongie depuis 2001. Le site est au cœur d'une réserve internationale de ciel étoilé labellisée en 2013, couvrant 3 000 km²."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

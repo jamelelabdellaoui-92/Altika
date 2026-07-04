@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Marmolada (Punta Penia)",
+  "elevation_m": 3343,
+  "location": "Dolomites — Entre Trentin et Vénétie",
+  "country": "Italie",
+  "summary": "« Reine des Dolomites », la Marmolada est le point culminant du massif et porte son glacier le plus étendu. Le site est inscrit au patrimoine mondial de l'UNESCO depuis 2009.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne s'étire entre le val di Fassa et le Cordevole, à la limite des provinces de Trente et de Belluno. Sa face sud plonge en une immense muraille calcaire, tandis que le glacier couvre le versant nord."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 28 septembre 1864 par Paul Grohmann avec Angelo et Fulgenzio Dimai et Pellegrino Pellegrini. Une via ferrata par l'arête ouest permet aujourd'hui d'atteindre la Punta Penia en été."
+    },
+    {
+      "title": "Histoire",
+      "body": "Pendant la Première Guerre mondiale, les Autrichiens creusèrent dans le glacier une véritable « cité de glace » de tunnels. Le 13 décembre 1916, le « vendredi blanc », des avalanches tuèrent des centaines de soldats."
+    }
+  ],
+  "first_ascent": "28 septembre 1864 — Paul Grohmann, avec Angelo et Fulgenzio Dimai et P. Pellegrini",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

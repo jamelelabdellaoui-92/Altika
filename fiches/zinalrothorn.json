@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Zinalrothorn",
+  "elevation_m": 4221,
+  "location": "Alpes pennines — Val d'Anniviers / Zermatt",
+  "country": "Suisse",
+  "summary": "Cime effilée entre Zinal et Zermatt, le Zinalrothorn (« corne rouge de Zinal ») est un sommet de pur rocher, réputé pour ses passages au nom évocateur : le Rasoir, le Sphinx, la Bosse.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne, en gneiss d'Arolla de belle qualité, appartient à la « couronne impériale » des cinq 4 000 qui entourent Zinal. Son ancien nom patois était Moming."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 20 août 1864 par l'écrivain Leslie Stephen et Florence Crauford Grove avec Melchior et Jakob Anderegg, par l'arête nord."
+    },
+    {
+      "title": "À savoir",
+      "body": "En 2013, le sommet a vu le premier saut en wingsuit depuis sa cime."
+    }
+  ],
+  "first_ascent": "20 août 1864 — Leslie Stephen et F. C. Grove, avec Melchior et Jakob Anderegg",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

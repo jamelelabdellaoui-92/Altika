@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Pizzi Deneri (Etna)",
+  "elevation_m": 2841,
+  "location": "Etna — Versant nord-est (Sicile)",
+  "country": "Italie",
+  "summary": "Crête sommitale du versant nord-est de l'Etna, les Pizzi Deneri dominent la côte ionienne d'un côté et les cratères sommitaux du volcan de l'autre — l'un des plus beaux points de vue du plus grand volcan actif d'Europe.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La crête se dresse sur le territoire de Linguaglossa, dans le parc de l'Etna, au bord du grand effondrement de la vallée del Bove."
+    },
+    {
+      "title": "Sciences",
+      "body": "Juste sous la crête, à 2 818 m, l'observatoire volcanologique de Pizzi Deneri (INGV) est le plus haut d'Europe. Il fut bâti entre 1975 et 1978 — en remplacement de l'ancien observatoire détruit par l'éruption de 1971 — avec les coupoles « Binishell » de l'architecte Dante Bini."
+    },
+    {
+      "title": "À savoir",
+      "body": "On y accède à pied depuis Piano Provenzana ou le refuge Citelli ; l'activité du volcan peut fermer le secteur à tout moment."
+    }
+  ],
+  "source": "Données publiques (INGV, Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Pico del Veleta",
+  "elevation_m": 3396,
+  "location": "Sierra Nevada — Andalousie",
+  "country": "Espagne",
+  "summary": "Deuxième sommet de la Sierra Nevada, bien visible depuis Grenade, le Veleta est réputé pour la plus haute route asphaltée d'Europe, qui grimpe jusque sous sa cime.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet domine la station de ski de la Sierra Nevada, la plus méridionale d'Europe. Sous sa face nord subsistait le Corral de la Veleta, glacier le plus méridional d'Europe, disparu en 1913."
+    },
+    {
+      "title": "Accès",
+      "body": "La route sommitale est fermée à la circulation générale depuis la création du parc national (1999), mais navettes et marcheurs l'empruntent toujours — l'ascension à pied ou à vélo est un classique."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le radiotélescope de 30 m de l'IRAM fonctionne à 2 920 m sur ses pentes, l'un des grands instruments millimétriques du monde."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

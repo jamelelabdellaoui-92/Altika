@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Monte Incudine",
+  "elevation_m": 2134,
+  "location": "Corse — Massif de l'Incudine",
+  "country": "France",
+  "summary": "Dernier grand sommet de la chaîne corse vers le sud, l'Incudine (« l'enclume ») domine le plateau du Coscione, entre Zicavo et Quenza.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Au sud de cette montagne granitique, le relief s'abaisse vers les aiguilles de Bavella et les massifs moindres du Sud. La neige y tient souvent jusqu'en mai."
+    },
+    {
+      "title": "Randonnée",
+      "body": "Le GR20 franchit le sommet, marqué d'une croix, par sa variante alpine depuis Bocca Stazzunara ; plusieurs itinéraires y mènent, de 4 à 26 km aller-retour."
+    },
+    {
+      "title": "À savoir",
+      "body": "Depuis la cime, le regard porte sur les aiguilles de Bavella et, par temps clair, jusqu'à la Sardaigne."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

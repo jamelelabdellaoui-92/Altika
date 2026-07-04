@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Grande Casse",
+  "elevation_m": 3855,
+  "location": "Alpes — Massif de la Vanoise",
+  "country": "France",
+  "summary": "Point culminant du massif de la Vanoise et du département de la Savoie, la Grande Casse domine Pralognan-la-Vanoise et sépare les vallées de la Tarentaise et de la Maurienne.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se partage entre les communes de Pralognan-la-Vanoise, Champagny-en-Vanoise et Val-Cenis. Plusieurs glaciers s'accrochent à ses flancs, dont ceux des Grands Couloirs et de l'Épéna."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 8 août 1860 par William Mathews avec Michel Croz et Étienne Favre. Le sommet est très couru, avec des itinéraires allant de PD+ au TD+."
+    },
+    {
+      "title": "À savoir",
+      "body": "La montagne fait ligne de partage des eaux entre Tarentaise au nord et Maurienne au sud. Une nouvelle mesure officielle de son altitude a été réalisée en juillet 2024."
+    }
+  ],
+  "first_ascent": "8 août 1860 — William Mathews, avec Michel Croz et Étienne Favre",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

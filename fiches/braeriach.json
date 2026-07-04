@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Braeriach",
+  "elevation_m": 1293,
+  "location": "Highlands — Cairngorms",
+  "country": "Royaume-Uni",
+  "summary": "Troisième sommet de Grande-Bretagne, le Braeriach déploie ses cirques en croissant de l'autre côté du Lairig Ghru, face au Ben Macdui.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet domine le grand passage du Lairig Ghru, qui le sépare du cœur des Cairngorms. Son plateau sommital est l'un des plus hauts et des plus sauvages d'Écosse."
+    },
+    {
+      "title": "À savoir",
+      "body": "Dans le cirque de Garbh Coire Mor, sous le sommet, la neige n'a totalement disparu que cinq fois au cours du siècle écoulé (1933, 1959, 1996, 2003, 2006) — le névé le plus durable de Grande-Bretagne."
+    },
+    {
+      "title": "Randonnée",
+      "body": "L'ascension, longue par tous les itinéraires, se mérite : c'est l'un des Munros les plus isolés des Cairngorms."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

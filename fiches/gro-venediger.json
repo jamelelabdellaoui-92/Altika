@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Großvenediger",
+  "elevation_m": 3644,
+  "location": "Hohe Tauern — Salzbourg / Tyrol",
+  "country": "Autriche",
+  "summary": "Deuxième grand massif glaciaire des Hohe Tauern après le Großglockner, le Großvenediger doit son nom — « le grand Vénitien » — peut-être aux prospecteurs vénitiens du Moyen Âge.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, à cheval entre les Länder de Salzbourg et du Tyrol, couronne le groupe du Venediger, sur la crête cristalline centrale des Alpes entre les vallées de la Salzach et de la Drave."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 3 septembre 1841 par la grande expédition d'Ignaz von Kürsinger et Anton von Ruthner, avec Josef Schwab. La voie la plus facile monte de l'est par le refuge Prager Hütte."
+    },
+    {
+      "title": "À savoir",
+      "body": "Son ascension, entièrement glaciaire, en fait l'un des grands objectifs de ski de randonnée d'Autriche au printemps."
+    }
+  ],
+  "first_ascent": "3 septembre 1841 — expédition Kürsinger / von Ruthner, avec Josef Schwab",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

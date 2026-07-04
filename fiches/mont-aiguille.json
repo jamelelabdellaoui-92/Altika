@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Mont Aiguille",
+  "elevation_m": 2087,
+  "location": "Alpes — Massif du Vercors",
+  "country": "France",
+  "summary": "Butte-témoin détachée du plateau du Vercors, le mont Aiguille est considéré comme le berceau de l'alpinisme : son ascension commandée par le roi Charles VIII en 1492 est la première ascension documentée d'une paroi jugée inaccessible.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La tour calcaire se dresse sur la commune de Chichilianne, en Isère. Son sommet, étonnamment plat, porte une prairie où plus de 130 espèces végétales ont été recensées."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Le 26 juin 1492, Antoine de Ville et sept compagnons gravissent le « Mons inaccessibilis » sur ordre de Charles VIII, en recourant déjà à des techniques d'escalade artificielle — un acte fondateur de l'alpinisme."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le géographe médiéval Gervais de Tilbury le comptait parmi les « sept merveilles du Dauphiné ». Le site est aujourd'hui en réserve naturelle, avec bivouac réglementé depuis 2022."
+    }
+  ],
+  "first_ascent": "26 juin 1492 — Antoine de Ville et sept compagnons, sur ordre de Charles VIII",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

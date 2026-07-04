@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Watzmann (Mittelspitze)",
+  "elevation_m": 2658,
+  "location": "Alpes de Berchtesgaden — Bavière",
+  "country": "Allemagne",
+  "summary": "Montagne emblématique de Berchtesgaden, le Watzmann dresse trois cimes principales — Hocheck, Mittelspitze, Südspitze — au-dessus du Königssee. Sa face est, haute de 1 800 m, est sans équivalent dans les Alpes orientales.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La légende veut que le cruel roi Watzmann et sa famille aient été pétrifiés : la silhouette de la montagne figure le roi, la reine (Watzmannfrau) et leurs enfants. L'Eiskapelle, névé permanent, se niche à 900 m au pied de la face est."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en août 1800 par le Slovène Valentin Stanič. La traversée des trois cimes est l'une des grandes classiques des Alpes orientales. Hermann Buhl gravit la face est en solitaire, de nuit, en hiver."
+    },
+    {
+      "title": "À savoir",
+      "body": "La face est au-dessus du Königssee a coûté la vie à plus d'une centaine d'alpinistes — elle reste l'un des grands défis des Alpes calcaires."
+    }
+  ],
+  "first_ascent": "Août 1800 — Valentin Stanič",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

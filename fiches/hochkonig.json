@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Hochkönig",
+  "elevation_m": 2934,
+  "location": "Alpes de Berchtesgaden — Land de Salzbourg",
+  "country": "Autriche",
+  "summary": "Point culminant des Alpes de Berchtesgaden, le Hochkönig (« haut roi ») dresse son plateau calcaire au-dessus du Pongau, dans le Land de Salzbourg.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Sa proéminence de plus de 2 100 m le classe parmi les sommets ultra-proéminents d'Europe : rien ne le dépasse à des dizaines de kilomètres à la ronde."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension officielle en 1826 par Karl Thurwieser. La voie normale, longue randonnée exigeante, traverse le plateau sommital où se dresse un refuge."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le panorama s'étend du Dachstein aux Hohe Tauern — l'un des grands belvédères des Alpes orientales calcaires."
+    }
+  ],
+  "first_ascent": "1826 — Karl Thurwieser",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

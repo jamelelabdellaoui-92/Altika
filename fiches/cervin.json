@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Cervin (Matterhorn)",
+  "elevation_m": 4478,
+  "location": "Alpes pennines — Zermatt / Valtournenche",
+  "country": "Suisse / Italie",
+  "summary": "Pyramide la plus célèbre du monde, le Cervin dresse ses quatre faces sur la frontière italo-suisse au-dessus de Zermatt. C'est la montagne la plus connue de Suisse — jusque sur les logos de Toblerone et Ricola.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Sa forme isolée et abrupte génère des nuages en bannière caractéristiques. Sa face nord compte parmi les trois grandes faces nord des Alpes, avec l'Eiger et les Grandes Jorasses."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 14 juillet 1865 par Edward Whymper, Charles Hudson, Francis Douglas et Douglas Hadow, avec Michel Croz et les Taugwalder père et fils. À la descente, une chute emporte Hadow, Croz, Hudson et Douglas : la corde casse, quatre des sept hommes périssent. L'arête du Hörnli reste la voie la plus parcourue."
+    },
+    {
+      "title": "À savoir",
+      "body": "Environ 600 alpinistes ont péri sur la montagne depuis 1865 — en moyenne quatre par an, ce qui en fait l'un des sommets les plus meurtriers des Alpes."
+    }
+  ],
+  "first_ascent": "14 juillet 1865 — Edward Whymper, C. Hudson, F. Douglas, D. Hadow, avec Michel Croz et les Taugwalder",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

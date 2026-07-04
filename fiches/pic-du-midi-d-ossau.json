@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Pic du Midi d'Ossau",
+  "elevation_m": 2884,
+  "location": "Pyrénées — Vallée d'Ossau (Béarn)",
+  "country": "France",
+  "summary": "Silhouette la plus reconnaissable des Pyrénées béarnaises, l'Ossau est le vestige d'un volcan vieux de 278 millions d'années. Les locaux le surnomment affectueusement « Jean-Pierre ».",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le pic se dresse dans les Pyrénées-Atlantiques, au cœur de la zone du parc national des Pyrénées. Sa double pointe lui vaut le surnom de « jumelles »."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Des bergers béarnais l'auraient gravi dès 1790 à la demande du géomètre Junker ; la première ascension documentée date du 3 octobre 1796 par Guillaume Delfau et son guide Mathieu. La voie normale est cotée PD et plus de 50 itinéraires parcourent ses parois."
+    },
+    {
+      "title": "À savoir",
+      "body": "Fragment de caldeira soulevé lors de la formation des Pyrénées, la montagne est l'emblème de tout le Béarn."
+    }
+  ],
+  "first_ascent": "3 octobre 1796 — Guillaume Delfau et son guide Mathieu (bergers béarnais probablement dès 1790)",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

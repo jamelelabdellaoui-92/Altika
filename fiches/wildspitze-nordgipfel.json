@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Wildspitze",
+  "elevation_m": 3738,
+  "location": "Alpes de l'Ötztal — Tyrol",
+  "country": "Autriche",
+  "summary": "Point culminant du Tyrol et des Alpes de l'Ötztal, la Wildspitze (« cime sauvage ») est le deuxième sommet d'Autriche, au cœur d'un des plus vastes ensembles glaciaires des Alpes orientales.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne porte deux cimes, nord et sud, au-dessus de Vent et du Pitztal. Les glaciers qui l'entourent ont porté longtemps du ski d'été."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "La voie la plus facile passe par le Mitterkarjoch depuis le refuge Breslauer Hütte ; l'ascension reste une vraie course glaciaire, crampons et encordement obligatoires."
+    },
+    {
+      "title": "À savoir",
+      "body": "C'est près d'ici, au Tisenjoch voisin, qu'a été retrouvé en 1991 Ötzi, l'homme des glaces vieux de 5 300 ans — le massif garde la mémoire des plus anciennes traversées alpines."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

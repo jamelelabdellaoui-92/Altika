@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Mont Viso",
+  "elevation_m": 3841,
+  "location": "Alpes cottiennes — Piémont",
+  "country": "Italie",
+  "summary": "Pyramide majestueuse qui semble surgir de nulle part côté italien, le mont Viso domine le Piémont face au Queyras. À son pied, au Pian del Re, naît le Pô, plus long fleuve d'Italie.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Sommet des Alpes cottiennes, le Viso se dresse entièrement en Italie, tout près de la frontière française. Le site est classé réserve de biosphère transfrontalière UNESCO depuis 2014."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 30 août 1861 par William Mathews et Frederick Jacomb avec Michel et Jean-Baptiste Croz."
+    },
+    {
+      "title": "À savoir",
+      "body": "Vers 1480, le « pertuis du Viso », tunnel de 75 m creusé sous la montagne, fut le premier tunnel des Alpes : il économisait trois jours de voyage. Des carrières de jade néolithiques ont été exploitées sur ses pentes, et Virgile, Dante et Chaucer l'ont cité."
+    }
+  ],
+  "first_ascent": "30 août 1861 — William Mathews et Frederick Jacomb, avec Michel et Jean-Baptiste Croz",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

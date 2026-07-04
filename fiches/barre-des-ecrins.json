@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Barre des Écrins",
+  "elevation_m": 4102,
+  "location": "Alpes — Massif des Écrins",
+  "country": "France",
+  "summary": "Point culminant du massif des Écrins et du Dauphiné, la Barre est le 4 000 le plus méridional des Alpes. Elle fut le toit de la France avant le rattachement de la Savoie en 1860.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse dans les Hautes-Alpes, entouré de quatre glaciers dont le glacier Blanc et le glacier Noir. La face nord est glaciaire, la face sud rocheuse ; la roche mêle gneiss migmatisés et granite."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 25 juin 1864 par Adolphus W. Moore, Horace Walker et Edward Whymper avec les guides Christian Almer et Michel Croz, par la face nord."
+    },
+    {
+      "title": "À savoir",
+      "body": "En 2012, la Barre a été gravie en courant en 1 h 55. Le dôme de neige des Écrins, voisin et légèrement plus bas, offre un objectif glaciaire plus abordable."
+    }
+  ],
+  "first_ascent": "25 juin 1864 — A. W. Moore, Horace Walker et Edward Whymper, avec Christian Almer et Michel Croz",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

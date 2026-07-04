@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Monte Civetta",
+  "elevation_m": 3220,
+  "location": "Dolomites — Val di Zoldo / Alleghe",
+  "country": "Italie",
+  "summary": "Au-dessus d'Alleghe, la Civetta déploie une muraille nord-ouest de près de 7 km de long et 1 200 m de haut — la « paroi des parois » des Dolomites.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne dresse une crête hérissée de sommets secondaires célèbres des grimpeurs : Punta Civetta, Torre Venezia, Torre Trieste."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Un chasseur de chamois, Simeone De Silvestro dit Piovanèl, atteint la cime vers 1855. En 1925, Emil Solleder et Gustav Lettenbauer ouvrent dans la face nord-ouest une voie majeure, considérée comme le premier sixième degré des Alpes. Seize voies y sont tracées entre 1910 et 1968."
+    },
+    {
+      "title": "À savoir",
+      "body": "Au lever du soleil, la muraille s'embrase au-dessus du lac d'Alleghe — l'un des grands spectacles des Dolomites."
+    }
+  ],
+  "first_ascent": "Vers 1855 — Simeone De Silvestro, dit Piovanèl, chasseur de chamois",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Hoher Dachstein",
+  "elevation_m": 2850,
+  "location": "Massif du Dachstein — Haute-Autriche / Styrie",
+  "country": "Autriche",
+  "summary": "Point culminant du massif du Dachstein et de deux Länder à la fois — Haute-Autriche et Styrie —, le Hoher Dachstein règne sur un haut plateau karstique aux derniers glaciers des Préalpes orientales.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne calcaire domine Hallstatt et le Salzkammergut au nord, la vallée de l'Enns au sud. C'est le deuxième massif des Préalpes orientales septentrionales."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 18 juillet 1834 par Peter Gappmayr et Karl Thurwieser. Un téléphérique monte au Hunerkogel voisin, d'où la voie normale traverse le glacier avant l'escalade facile équipée du bloc sommital."
+    },
+    {
+      "title": "À savoir",
+      "body": "Ses parois sud, verticales, comptent parmi les grandes classiques d'escalade d'Autriche."
+    }
+  ],
+  "first_ascent": "18 juillet 1834 — Peter Gappmayr et Karl Thurwieser",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

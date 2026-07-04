@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Pique d'Estats",
+  "elevation_m": 3143,
+  "location": "Pyrénées — Massif du Montcalm",
+  "country": "France / Espagne",
+  "summary": "Point culminant de l'Ariège et de toute la Catalogne, la pique d'Estats couronne le massif du Montcalm sur la frontière franco-espagnole.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne, en schistes et grès cambriens, garde peu de neige malgré son altitude. Des espaces protégés l'entourent des deux côtés de la frontière."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en 1864 par Henry Russell et Jean-Jacques Denjean. La voie normale française passe par le refuge du Pinet ; côté espagnol, l'itinéraire remonte les étangs de Sotllo et d'Estats."
+    },
+    {
+      "title": "À savoir",
+      "body": "Sommet fétiche des Catalans, elle voit défiler de nombreux randonneurs chaque été — l'ascension reste longue mais sans passage technique en bonnes conditions."
+    }
+  ],
+  "first_ascent": "1864 — Henry Russell et Jean-Jacques Denjean",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

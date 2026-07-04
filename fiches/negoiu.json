@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Negoiu",
+  "elevation_m": 2527,
+  "location": "Carpates — Monts Făgăraș",
+  "country": "Roumanie",
+  "summary": "Deuxième sommet de Roumanie, à 17 mètres seulement du Moldoveanu, le Negoiu passa longtemps pour le toit des Carpates en dehors des Tatras.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se partage entre les județe de Sibiu et d'Argeș, sur la crête principale des Făgăraș."
+    },
+    {
+      "title": "Randonnée",
+      "body": "L'itinéraire classique part de la cabane Negoiu ; le passage de la Strunga Dracului (« la gorge du Diable »), couloir raide équipé de chaînes, garde la voie directe."
+    },
+    {
+      "title": "À savoir",
+      "body": "Les météorologues roumains le surnomment le « pôle de l'instabilité atmosphérique » du pays — orages et brouillards s'y forment plus souvent que partout ailleurs."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

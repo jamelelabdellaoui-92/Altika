@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Dent Blanche",
+  "elevation_m": 4358,
+  "location": "Alpes pennines — Val d'Hérens",
+  "country": "Suisse",
+  "summary": "Pyramide de gneiss aux quatre arêtes presque parfaitement orientées aux points cardinaux, la Dent Blanche veille sur le val d'Hérens et fait partie de la « couronne impériale » de Zinal.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La cabane de la Dent Blanche, à 3 507 m, dessert la voie normale par l'arête sud. La face nord porte plusieurs glaciers."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 18 juillet 1862 par William Wigram et Thomas Stuart Kennedy avec Jean-Baptiste Croz et Johann Kronig. L'arête nord-est, dite des Quatre Ânes, reste son itinéraire le plus relevé."
+    },
+    {
+      "title": "À savoir",
+      "body": "Vers 1850, la cartographie imprécise la confondait régulièrement avec la Dent d'Hérens voisine — d'où des noms longtemps intervertis."
+    }
+  ],
+  "first_ascent": "18 juillet 1862 — William Wigram et T. S. Kennedy, avec J.-B. Croz et J. Kronig",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

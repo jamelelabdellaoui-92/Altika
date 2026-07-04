@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Schiehallion",
+  "elevation_m": 1075,
+  "location": "Highlands — Perthshire",
+  "country": "Royaume-Uni",
+  "summary": "Le cône presque parfait de Schiehallion — la « colline féerique des Calédoniens » — a permis en 1774 l'une des grandes expériences de la physique : peser la Terre.",
+  "sections": [
+    {
+      "title": "Sciences",
+      "body": "L'astronome royal Nevil Maskelyne y mesura la déviation d'un fil à plomb attirée par la masse de la montagne, pour estimer la densité moyenne de la Terre. En dépouillant les relevés, le mathématicien Charles Hutton inventa au passage les courbes de niveau."
+    },
+    {
+      "title": "Géographie",
+      "body": "La montagne de quartzite se dresse près du centre géographique de l'Écosse, dans le Perthshire. Sa silhouette conique vue de l'ouest la rend reconnaissable entre toutes."
+    },
+    {
+      "title": "À savoir",
+      "body": "Munro très populaire (près de 20 000 ascensions par an), elle a aussi donné son nom à un astéroïde, (96535) Schiehallion."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Naranjo de Bulnes (Picu Urriellu)",
+  "elevation_m": 2518,
+  "location": "Picos de Europa — Massif des Urrieles",
+  "country": "Espagne",
+  "summary": "Monolithe calcaire aux parois verticales de 600 mètres, le Naranjo de Bulnes — Picu Urriellu en asturien — est le sommet emblématique de l'escalade espagnole.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La tour se dresse dans le massif central des Picos de Europa, au-dessus du village de Bulnes, dans les Asturies."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 5 août 1904 par Pedro Pidal, marquis de Villaviciosa, avec le berger Gregorio Pérez, par la face nord — un exploit pour l'époque. Une quarantaine de voies parcourent aujourd'hui ses faces ; « Orbayu » (2009, frères Pou) compte parmi les grandes voies les plus dures du monde (8c+/9a)."
+    },
+    {
+      "title": "À savoir",
+      "body": "Un astéroïde, (249160) Urriellu, porte le nom asturien de la montagne."
+    }
+  ],
+  "first_ascent": "5 août 1904 — Pedro Pidal, marquis de Villaviciosa, avec Gregorio Pérez",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

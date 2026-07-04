@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Pic de Rochebrune",
+  "elevation_m": 3320,
+  "location": "Alpes — Massif du Queyras",
+  "country": "France",
+  "summary": "Point culminant du massif du Queyras, le pic de Rochebrune reste accessible aux randonneurs expérimentés malgré son altitude, sans grande difficulté technique.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, dans les Hautes-Alpes, porte deux pointes ; la véritable cime est la pointe nord."
+    },
+    {
+      "title": "Randonnée",
+      "body": "La course demande 7 à 8 heures et environ 1 200 m de dénivelé cumulé, avec seulement quelques mètres d'escalade facile. L'itinéraire réserve un piège d'orientation au « col Perdu », où il faut redescendre plutôt que suivre la crête."
+    },
+    {
+      "title": "À savoir",
+      "body": "Sa silhouette isolée domine tout le Queyras et se repère de loin depuis le Briançonnais."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

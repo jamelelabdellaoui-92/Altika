@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Mont Mézenc",
+  "elevation_m": 1753,
+  "location": "Massif central — Massif du Mézenc",
+  "country": "France",
+  "summary": "À cheval sur la Haute-Loire et l'Ardèche, le Mézenc dresse ses deux sommets jumeaux sur la ligne de partage des eaux entre Atlantique et Méditerranée.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Ce dôme phonolitique vieux de 7 millions d'années porte deux cimes distantes d'un demi-kilomètre : la sud (point culminant de l'Ardèche) et la nord (point culminant de la Haute-Loire)."
+    },
+    {
+      "title": "Nature",
+      "body": "Le site, classé Natura 2000 sur 2 400 hectares, abrite une flore d'affinité alpine dont le rare séneçon blanchâtre."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le panorama s'étend des Alpes au Cantal par temps clair. Les paysages du massif ont servi de décor à la série Kaamelott et à sa trilogie cinématographique."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

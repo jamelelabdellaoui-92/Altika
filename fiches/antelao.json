@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Antelao",
+  "elevation_m": 3264,
+  "location": "Dolomites — Cadore",
+  "country": "Italie",
+  "summary": "« Roi des Dolomites » face à la Marmolada qui en est la reine, l'Antelao est le deuxième sommet du massif et l'emblème de tout le Cadore.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Son imposant tétraèdre domine la vallée du Boite, San Vito di Cadore et le val de Zoldo. Deux glaciers en fort recul s'accrochent à ses flancs."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en 1860 par Matteo Ossi, chasseur de San Vito di Cadore, par l'arête nord. La voie normale par le versant sud-est demande un pied très sûr sur ses dalles."
+    },
+    {
+      "title": "À savoir",
+      "body": "Les habitants disent que l'Antelao « fume la pipe » quand un nuage horizontal s'accroche à son sommet — signe de changement de temps."
+    }
+  ],
+  "first_ascent": "1860 — Matteo Ossi, chasseur de San Vito di Cadore",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

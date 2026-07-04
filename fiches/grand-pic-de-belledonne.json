@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Grand Pic de Belledonne",
+  "elevation_m": 2977,
+  "location": "Alpes — Chaîne de Belledonne",
+  "country": "France",
+  "summary": "Point culminant de la chaîne de Belledonne, le Grand Pic domine Grenoble d'une vingtaine de kilomètres et forme, avec le Pic Central et la Croix de Belledonne, le trio des « Trois Pics ».",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, en Isère, devance le Pic Central (2 945 m) et le Rocher Blanc. Sa roche, une amphibolite issue du complexe ophiolitique de Chamrousse, témoigne d'un ancien plancher océanique."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "La première ascension est réalisée le 16 août 1859. Trois refuges — Belledonne, Jean Collet et de la Pra — desservent les itinéraires du secteur."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le versant oriental est classé ZNIEFF sur près de 1 700 hectares ; bouquetins et lièvres variables y sont présents."
+    }
+  ],
+  "first_ascent": "16 août 1859 — Étienne Favier et Stéphane Chapuis, avec Alphonse Michel et Frédéric Perrin",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

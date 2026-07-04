@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Dom (Mischabel)",
+  "elevation_m": 4545,
+  "location": "Alpes pennines — Massif des Mischabel",
+  "country": "Suisse",
+  "summary": "Plus haut sommet entièrement situé en territoire suisse, le Dom couronne la couronne des Mischabel entre Saas-Fee et la vallée de Zermatt.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Troisième sommet des Alpes, il domine Randa, d'où part la voie normale par la cabane du Dom et le Festigrat. Une croix métallique marque la cime."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 11 septembre 1858 par le révérend John Llewelyn Davies avec Johann Zumtaugwald, Johann Kronig et Hieronymus Brantschen."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le grand alpiniste Patrick Berhault y trouva la mort le 28 avril 2004, lors de son enchaînement des 82 sommets de 4 000 m des Alpes."
+    }
+  ],
+  "first_ascent": "11 septembre 1858 — John Llewelyn Davies, avec J. Zumtaugwald, J. Kronig et H. Brantschen",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

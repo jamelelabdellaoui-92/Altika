@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Cime du Gélas",
+  "elevation_m": 3143,
+  "location": "Alpes — Massif du Mercantour-Argentera",
+  "country": "France / Italie",
+  "summary": "Point culminant du parc national du Mercantour et des Alpes-Maritimes, la cime du Gélas dresse son sommet bifide de gneiss sur la frontière franco-italienne.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne, reconnaissable à ses deux pointes séparées par la « selle du Gélas », abrite l'un des glaciers les plus méridionaux des Alpes."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 17 juillet 1864 par le comte Paolo di Saint-Robert, par le couloir Est. Première hivernale le 11 février 1896 par Victor de Cessole. La voie normale est cotée F."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le sommet porte une madone de bois et une croix, installées par des ecclésiastiques de Cuneo."
+    }
+  ],
+  "first_ascent": "17 juillet 1864 — comte Paolo di Saint-Robert",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

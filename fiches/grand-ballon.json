@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Grand Ballon",
+  "elevation_m": 1424,
+  "location": "Massif des Vosges",
+  "country": "France",
+  "summary": "Point culminant du massif des Vosges, le Grand Ballon domine la plaine d'Alsace à 25 km de Mulhouse. Par temps très clair, le Mont Blanc est théoriquement visible à 229 km.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, dans le Haut-Rhin, porte plus de 230 espèces végétales dont une vingtaine protégées. La route des Crêtes passe au col du Grand Ballon, juste en contrebas."
+    },
+    {
+      "title": "Histoire",
+      "body": "Le monument des Diables Bleus, dédié aux chasseurs alpins, y a été érigé en 1927. Le radar boule de l'aviation civile fonctionne au sommet depuis 1998."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le climat y est rude : record de froid à −31,2 °C en février 2012 et 3,7 m de neige au sol mesurés en mars 2006. Une petite station de ski et une hôtellerie fonctionnent toute l'année."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

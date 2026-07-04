@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Sommet de Finiels (mont Lozère)",
+  "elevation_m": 1699,
+  "location": "Massif central — Mont Lozère (Cévennes)",
+  "country": "France",
+  "summary": "Toit des Cévennes, le sommet de Finiels couronne le mont Lozère, vaste échine granitique entièrement comprise dans le parc national des Cévennes.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le granite du mont Lozère s'est mis en place il y a plus de 300 millions d'années. Autour du sommet s'étend une pelouse subalpine de 6 000 hectares entretenue par le pâturage des brebis et des vaches."
+    },
+    {
+      "title": "Histoire",
+      "body": "Robert Louis Stevenson traversa la montagne en 1878 avec son ânesse Modestine ; son récit a donné naissance au « chemin de Stevenson » (GR70), très parcouru aujourd'hui. Pline l'Ancien mentionnait déjà les fromages du mont Lozère au Ier siècle."
+    },
+    {
+      "title": "À savoir",
+      "body": "Une meute de loups — la plus occidentale au-delà du Rhône — s'est installée sur le massif, qui abrite droséras, canneberges et orchidées rares."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

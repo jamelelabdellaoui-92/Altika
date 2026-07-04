@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Gerlachovský štít",
+  "elevation_m": 2655,
+  "location": "Hautes Tatras",
+  "country": "Slovaquie",
+  "summary": "Point culminant de la Slovaquie, des Tatras et de toute la chaîne des Carpates, le Gerlachovský štít dresse son cirque granitique au-dessus de la vallée de Poprad.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Ce fut le plus haut sommet de la Hongrie jusqu'en 1918, puis de la Tchécoslovaquie jusqu'en 1992. Ludwig Greiner démontra par triangulation dès 1838 qu'il dominait toutes les Carpates."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en 1834 par Ján Still, du village de Nová Lesná. L'ascension (passages II-III) n'est autorisée qu'avec un guide certifié ou en tant que membre d'un club alpin, par les voies câblées de Velická ou Batizovská próba."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le sommet a changé six fois de nom aux XIXe et XXe siècles — il fut même « pic Staline » en 1949."
+    }
+  ],
+  "first_ascent": "1834 — Ján Still",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Crêt de la Neige",
+  "elevation_m": 1721,
+  "location": "Massif du Jura — Haute chaîne",
+  "country": "France",
+  "summary": "Point culminant du massif du Jura, le Crêt de la Neige étire une longue croupe rocheuse au-dessus du pays de Gex, dans la réserve naturelle de la Haute Chaîne du Jura.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, dans l'Ain, ne forme pas de pointe marquée : la crête s'étire sur environ 650 m entre les communes de Lélex et Thoiry. Son nom vient de cavités qui conservaient jadis la neige toute l'année."
+    },
+    {
+      "title": "Randonnée",
+      "body": "Le sommet se gagne depuis Lélex (télécabine possible) ou le col de la Faucille par de longues crêtes ; le panorama embrasse le Léman, les Alpes et jusqu'aux Vosges et à la Forêt-Noire."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le secteur, dans le parc naturel régional du Haut-Jura, abrite une flore remarquable dont le sabot de Vénus."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Grandes Jorasses",
+  "elevation_m": 4208,
+  "location": "Alpes — Massif du Mont-Blanc",
+  "country": "France / Italie",
+  "summary": "Grande muraille du massif du Mont-Blanc, les Grandes Jorasses dressent leur arête frontalière entre la Haute-Savoie et le val d'Aoste. Leur face nord est l'une des trois grandes faces nord des Alpes, avec celles du Cervin et de l'Eiger.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "L'arête sommitale, qui marque la frontière franco-italienne, aligne six pointes distinctes ; la plus haute est la pointe Walker. La montagne domine la mer de Glace côté Chamonix et le val Ferret côté Courmayeur."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "La première ascension est réalisée le 30 juin 1868 par Horace Walker avec Melchior Anderegg, Johann Jaun et Julien Grange. La face nord, une paroi de granite d'environ 1 200 m, reste un des grands défis de l'alpinisme : l'éperon Walker, gravi en 1938, en est la voie la plus célèbre."
+    },
+    {
+      "title": "À savoir",
+      "body": "La face nord a connu toutes les déclinaisons de l'exploit : hivernales, solitaires, hivernales en solitaire. La qualité du granite y est variable selon les secteurs."
+    }
+  ],
+  "first_ascent": "30 juin 1868 — Horace Walker, avec Melchior Anderegg, Johann Jaun et Julien Grange",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

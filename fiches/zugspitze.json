@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Zugspitze",
+  "elevation_m": 2949,
+  "location": "Alpes bavaroises — Massif du Wetterstein",
+  "country": "Allemagne",
+  "summary": "Point culminant de l'Allemagne, la Zugspitze domine Garmisch-Partenkirchen à la frontière autrichienne. Trains à crémaillère et téléphériques hissent les visiteurs jusqu'au sommet.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne, en calcaire dolomitique du Trias, porte le glacier du Schneeferner, en fort recul. Par temps clair, la vue s'étend sur quatre pays : Allemagne, Autriche, Suisse et Italie."
+    },
+    {
+      "title": "Histoire",
+      "body": "Première ascension le 27 août 1820 par le lieutenant Josef Naus avec l'aide-géomètre Maier et le guide Georg Deutschl. Un observatoire météorologique fonctionne au sommet depuis 1900."
+    },
+    {
+      "title": "À savoir",
+      "body": "Tous les itinéraires à pied exigent plus de 2 000 m de dénivelé — dont le fameux passage du Höllental et son via ferrata glaciaire."
+    }
+  ],
+  "first_ascent": "27 août 1820 — lieutenant Josef Naus, avec Maier et Georg Deutschl",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Mont Tendre",
+  "elevation_m": 1679,
+  "location": "Massif du Jura — Jura vaudois",
+  "country": "Suisse",
+  "summary": "Point culminant du Jura suisse, le Mont Tendre déroule ses croupes calcaires et ses pâturages boisés au-dessus de la vallée de Joux, dans le canton de Vaud.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne, sur la commune de Montricher, est typique du karst jurassien : calcaires du Jurassique supérieur, lapiaz et dolines criblent ses pentes."
+    },
+    {
+      "title": "Randonnée",
+      "body": "Le sommet, aisément accessible, offre un panorama réputé qui court de l'Eiger au mont Pourri, avec le Léman et le lac de Neuchâtel en contrebas."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le parc naturel régional Jura vaudois englobe ses pentes, parcourues par les longues crêtes du Jura suisse."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

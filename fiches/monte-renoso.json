@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Monte Renoso",
+  "elevation_m": 2352,
+  "location": "Corse — Massif du Renoso",
+  "country": "France",
+  "summary": "Point culminant du sud de la chaîne principale corse, le Monte Renoso domine les cols de Vizzavona et de Verde, entre Bastelica, Bocognano et Ghisoni.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le massif, troisième de l'île en altitude, porte six lacs de montagne dont le lac de Bastani, sous le sommet. En hiver, ses pentes se parcourent à ski de randonnée depuis les Capannelle."
+    },
+    {
+      "title": "Histoire",
+      "body": "Le col de Verde fut le théâtre d'une avalanche meurtrière en 1927 (douze bûcherons italiens). Le 29 décembre 1962, l'avion transportant l'équipe de basket de Bastia s'écrasa sur la montagne, faisant 25 victimes."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le sommet offre l'un des plus vastes panoramas de Corse, de la mer Tyrrhénienne au golfe d'Ajaccio."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

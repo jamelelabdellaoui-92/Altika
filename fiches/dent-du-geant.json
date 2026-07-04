@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Dent du Géant",
+  "elevation_m": 4013,
+  "location": "Alpes — Massif du Mont-Blanc",
+  "country": "France / Italie",
+  "summary": "Monolithe de granite de près de 200 mètres planté sur la frontière franco-italienne entre le mont Blanc et les Grandes Jorasses, la Dent du Géant est l'un des 4 000 les plus gravis des Alpes.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La dent porte deux pointes distantes d'une trentaine de mètres : la pointe Sella et la pointe Graham, point culminant. Le col du Géant, desservi par téléphérique, en facilite l'approche."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "La pointe Sella est gravie le 28 juillet 1882 par Jean-Joseph Maquignaz et les siens ; la pointe Graham suit le 14 août 1882 avec William Woodman Graham et les guides Auguste Cupelin et Alphonse Payot. La voie normale est équipée de cordes fixes."
+    },
+    {
+      "title": "À savoir",
+      "body": "En 1880, Albert Mummery avait déclaré la dent « absolument inaccessible par des moyens loyaux ». Une statue en aluminium de la Vierge d'un mètre y a été installée en 1904."
+    }
+  ],
+  "first_ascent": "28 juillet 1882 — Jean-Joseph Maquignaz (pointe Sella) ; 14 août 1882 — W. W. Graham (pointe Graham)",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Paglia Orba",
+  "elevation_m": 2525,
+  "location": "Corse — Massif du Monte Cinto",
+  "country": "France",
+  "summary": "Surnommée la « reine des montagnes corses », la Paglia Orba dresse sa dent spectaculaire au-dessus de la vallée du Fango. Le Golo, plus long fleuve de Corse, naît à ses pieds.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Contrairement aux sommets volcaniques voisins, la montagne est faite de poudingues et grès permiens, avec des galets dépassant parfois le mètre cube. Sa silhouette domine tout l'ouest de l'île."
+    },
+    {
+      "title": "Escalade",
+      "body": "Les voies de ses parois vont de AD à ED ; le rocher sculpté y dessine des formes célèbres comme le Sphinx ou le « peigne des chèvres »."
+    },
+    {
+      "title": "À savoir",
+      "body": "L'ascension classique part du refuge de Ciottulu di i Mori, sur le GR20, par le versant sud — un passage aérien garde l'accès au plateau sommital."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

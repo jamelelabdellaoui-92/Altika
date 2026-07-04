@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Pointe Percée",
+  "elevation_m": 2750,
+  "location": "Alpes — Chaîne des Aravis",
+  "country": "France",
+  "summary": "Point culminant de la chaîne des Aravis, la pointe Percée doit son nom à une ouverture naturelle près du sommet, sur son arête nord-ouest.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, en roche sédimentaire, se dresse à la limite des communes du Reposoir, du Grand-Bornand et de Sallanches, en Haute-Savoie."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en 1865 par Louis Maquelin et deux compagnons. L'arête du Doigt, gravie dès 1903, est un itinéraire classique ; la voie la plus accessible part du col des Annes via le refuge de la pointe Percée–Gramusset."
+    },
+    {
+      "title": "À savoir",
+      "body": "Deux refuges desservent le sommet, très couru des randonneurs aguerris comme des grimpeurs."
+    }
+  ],
+  "first_ascent": "1865 — Louis Maquelin et deux compagnons",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

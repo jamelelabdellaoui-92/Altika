@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Ballon d'Alsace",
+  "elevation_m": 1248,
+  "location": "Massif des Vosges",
+  "country": "France",
+  "summary": "Sentinelle sud du massif des Vosges, le Ballon d'Alsace marque la rencontre de trois départements. Son sommet porte une statue équestre de Jeanne d'Arc et une vierge de bronze de 1860.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet domine la trouée de Belfort, aux confins du Haut-Rhin, des Vosges et du Territoire de Belfort. Par temps clair, la vue porte sur la Forêt-Noire, les Alpes suisses et le Mont Blanc."
+    },
+    {
+      "title": "Histoire",
+      "body": "Le site est un haut lieu du cyclisme : le Tour de France y a fait étape à de nombreuses reprises depuis les débuts de l'épreuve. La statue de Jeanne d'Arc a été inaugurée le 19 septembre 1909."
+    },
+    {
+      "title": "À savoir",
+      "body": "Classé pour son caractère pittoresque depuis 1982, le site accueille une station de ski (16 pistes alpines, 46 km de pistes nordiques)."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Monte Cinto",
+  "elevation_m": 2706,
+  "location": "Corse — Massif du Monte Cinto",
+  "country": "France",
+  "summary": "Point culminant de la Corse, le Monte Cinto règne sur le nord-ouest de l'île, entre Asco et Lozzi. Son ascension reste une longue course de plus de 8 heures.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, en Haute-Corse, domine le lac du Cinto et le lac d'Argento. Milan royal et gypaète fréquentent le massif."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 6 juin 1882 par Édouard Rochat et ses compagnons, par le versant sud. Le grand alpiniste Francis Fox Tuckett le parcourt dès 1883. Les itinéraires depuis Asco au nord ou Lozzi au sud restent exigeants."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le GR20 passe à proximité du sommet, que beaucoup de randonneurs gravissent en variante depuis le refuge de Tighjettu ou l'hôtel Le Chalet d'Asco."
+    }
+  ],
+  "first_ascent": "6 juin 1882 — Édouard Rochat et ses compagnons",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

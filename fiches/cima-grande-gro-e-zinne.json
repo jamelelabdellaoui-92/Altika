@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Cima Grande di Lavaredo (Große Zinne)",
+  "elevation_m": 2999,
+  "location": "Dolomites — Tre Cime di Lavaredo",
+  "country": "Italie",
+  "summary": "Tour centrale des Tre Cime di Lavaredo, la Cima Grande dresse une face nord de 500 mètres, verticale à surplombante — l'une des parois mythiques de l'escalade mondiale et l'emblème des Dolomites.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Les trois cimes se dressent à la limite de la Vénétie et du Trentin-Haut-Adige, au cœur du bien UNESCO des Dolomites. La dolomie triasique y repose sur des strates plus tendres, d'où ces tours verticales."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 21 août 1869 par Paul Grohmann avec Franz Innerkofler et Peter Salcher, par la face sud. La face nord, gravie en 1933 par Emilio Comici, a défini l'escalade de sixième degré."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le tour des Tre Cime depuis le refuge Auronzo est l'une des randonnées les plus fréquentées des Alpes. Le site a servi de décor au film Solo: A Star Wars Story et accueille régulièrement le Giro d'Italia."
+    }
+  ],
+  "first_ascent": "21 août 1869 — Paul Grohmann, avec Franz Innerkofler et Peter Salcher",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

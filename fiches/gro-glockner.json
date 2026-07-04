@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Großglockner",
+  "elevation_m": 3674,
+  "location": "Hohe Tauern — Tyrol / Carinthie",
+  "country": "Autriche",
+  "summary": "Point culminant de l'Autriche, le Großglockner dresse sa pyramide de schistes verts entre Tyrol et Carinthie, au-dessus de la Pasterze, plus grand glacier du pays.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet règne sur le parc national des Hohe Tauern. À ses pieds, la route alpine du Großglockner, achevée en 1935, attire environ 900 000 visiteurs par an."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en 1800 par une expédition organisée par le prince-évêque Salm, avec Martin Reicher et ses compagnons. Environ 5 000 alpinistes atteignent la cime chaque année, le plus souvent par la voie normale et l'arête sommitale effilée du Kleinglockner."
+    },
+    {
+      "title": "À savoir",
+      "body": "La montagne est considérée comme le berceau de l'alpinisme dans les Alpes orientales."
+    }
+  ],
+  "first_ascent": "1800 — expédition du prince-évêque Salm (Martin Reicher et compagnons)",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

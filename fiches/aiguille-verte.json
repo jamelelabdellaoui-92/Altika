@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Aiguille Verte",
+  "elevation_m": 4121,
+  "location": "Alpes — Massif du Mont-Blanc",
+  "country": "France",
+  "summary": "Sommet emblématique du massif du Mont-Blanc au-dessus de Chamonix, l'Aiguille Verte compte parmi les 82 sommets alpins de plus de 4 000 mètres. Aucune de ses voies n'est considérée comme facile.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Située en Haute-Savoie, elle dresse quatre grandes arêtes et porte deux sommets satellites, la Grande Rocheuse et l'aiguille du Jardin. Son nom viendrait de la teinte bleu-vert de la glace sommitale éclairée de biais."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 29 juin 1865 par Edward Whymper avec Christian Almer et Franz Biner, par le couloir Whymper. Le couloir Couturier en face nord et le couloir en Y comptent parmi ses itinéraires les plus réputés."
+    },
+    {
+      "title": "À savoir",
+      "body": "Gaston Rébuffat a résumé son statut d'un mot célèbre : « Avant la Verte on est alpiniste, à la Verte on devient montagnard. »"
+    }
+  ],
+  "first_ascent": "29 juin 1865 — Edward Whymper, avec Christian Almer et Franz Biner",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

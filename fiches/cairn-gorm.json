@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Cairn Gorm",
+  "elevation_m": 1242,
+  "location": "Highlands — Cairngorms",
+  "country": "Royaume-Uni",
+  "summary": "La « montagne bleue » a donné son nom à toute la chaîne des Cairngorms. Ses pentes portent la station de ski d'Aviemore et le funiculaire le plus haut du Royaume-Uni.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet domine le cirque glaciaire du Coire an t-Sneachda et la vallée de la Spey. Une source, le Marquis' Well, sourd près de la cime."
+    },
+    {
+      "title": "Histoire",
+      "body": "En novembre 1971, la tragédie de Feith Buidhe — six morts, dont cinq adolescents — reste le pire accident de montagne du Royaume-Uni et a réformé l'encadrement des sorties scolaires en montagne."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le funiculaire s'arrête vers 1 080 m ; la station météo du sommet enregistre certaines des plus fortes rafales du pays."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Le Reculet",
+  "elevation_m": 1717,
+  "location": "Massif du Jura — Haute chaîne",
+  "country": "France",
+  "summary": "Deuxième sommet du Jura, longtemps donné pour son point culminant, le Reculet dresse sa grande croix sommitale à 2 km au sud-ouest du Crêt de la Neige.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, dans l'Ain, appartient à la réserve naturelle nationale de la Haute Chaîne du Jura. Le panorama porte sur le Léman, le Mont Blanc et, par temps clair, jusqu'aux volcans d'Auvergne."
+    },
+    {
+      "title": "Histoire",
+      "body": "Les alpages du Reculet sont fréquentés depuis le Moyen Âge ; une croix y a été hissée en 1892 par des forgerons et habitants de Thoiry."
+    },
+    {
+      "title": "À savoir",
+      "body": "Des mesures GPS de 2024 ont définitivement tranché une vieille querelle : c'est bien le Crêt de la Neige, et non le Reculet, qui culmine dans le Jura."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

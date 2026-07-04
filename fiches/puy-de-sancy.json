@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Puy de Sancy",
+  "elevation_m": 1885,
+  "location": "Massif central — Monts Dore",
+  "country": "France",
+  "summary": "Point culminant du Massif central et plus haut volcan de France métropolitaine, le Sancy prend des airs alpins au-dessus du Mont-Dore. La Dordogne naît sur ses pentes.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Ce stratovolcan de trachy-andésite domine des vallées glaciaires (Chaudefour, Fontaine Salée). Sa flore alpine est rare à cette latitude, et marmottes, mouflons et chamois y ont été réintroduits."
+    },
+    {
+      "title": "Accès",
+      "body": "Le premier téléphérique du Massif central y a été installé en 1936 ; un escalier de bois de 864 marches mène de la gare d'arrivée à la plateforme sommitale. Trois stations de ski se partagent ses pentes."
+    },
+    {
+      "title": "À savoir",
+      "body": "Une mesure de 2024 a précisé l'altitude à 1 884,82 m. Le panorama porte par temps clair jusqu'aux Alpes."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

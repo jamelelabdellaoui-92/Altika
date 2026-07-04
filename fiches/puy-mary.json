@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Puy Mary",
+  "elevation_m": 1783,
+  "location": "Massif central — Monts du Cantal",
+  "country": "France",
+  "summary": "Pyramide sculptée par les glaciers au cœur du plus grand stratovolcan d'Europe, le puy Mary est classé Grand Site de France depuis 2012 — le site le plus visité d'Auvergne.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Sept vallées glaciaires rayonnent depuis le sommet, vestige d'un volcan vieux d'environ 6,5 millions d'années. Les précipitations y atteignent 2,5 m par an en moyenne."
+    },
+    {
+      "title": "Accès",
+      "body": "Depuis le pas de Peyrol, plus haut col routier du Massif central, un sentier aménagé grimpe au sommet ; environ 500 000 visiteurs le parcourent chaque année."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le site abrite une variété naine de pétasite de Sibérie qu'on ne trouve nulle part ailleurs au monde."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

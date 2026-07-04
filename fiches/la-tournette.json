@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "La Tournette",
+  "elevation_m": 2351,
+  "location": "Alpes — Massif des Bornes",
+  "country": "France",
+  "summary": "Sommet calcaire le plus caractéristique au-dessus du lac d'Annecy, la Tournette offre un panorama à 360° qui embrasse le lac, les massifs voisins et jusqu'au Mont Blanc.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne se dresse en Haute-Savoie, entre Annecy et Albertville, dans le massif des Bornes. Son sous-sol karstique compte une centaine de réseaux et environ 90 entrées de cavités recensées."
+    },
+    {
+      "title": "Randonnée",
+      "body": "L'itinéraire le plus fréquenté part du col de l'Aulp par la face ouest. Le bloc sommital, dit « le Fauteuil », se gravit par des passages câblés. En hiver, raquettes et ski de randonnée se pratiquent depuis Belchamp."
+    },
+    {
+      "title": "À savoir",
+      "body": "La « Montée de la Tournette », course annuelle, se dispute depuis 1996. Les parois de la montagne comptent aussi de nombreuses voies d'escalade."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Pic du Balaïtous",
+  "elevation_m": 3146,
+  "location": "Pyrénées — Massif du Balaïtous",
+  "country": "France / Espagne",
+  "summary": "Premier 3 000 de la chaîne en venant de l'Atlantique, le Balaïtous plante son granite sauvage sur la crête frontière franco-espagnole.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le massif granitique porte des calcaires à fossiles marins jusqu'au sommet, et le glacier de Las Néous sur son flanc est. Aucun accès routier n'épargne moins de 1 500 m de dénivelé."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 3 août 1825 par les officiers géodésiens Pierre Peytier et Paul-Michel Hossard — un exploit resté inconnu 52 ans, jusqu'à sa publication en 1877. La « Grande Diagonale », vire spectaculaire de la face nord, offre le passage d'été classique."
+    },
+    {
+      "title": "À savoir",
+      "body": "Plusieurs passages portent les noms des pionniers : cap Peytier-Hossard, boulevard Packe, traversée Béraldi."
+    }
+  ],
+  "first_ascent": "3 août 1825 — Pierre Peytier et Paul-Michel Hossard, officiers géodésiens",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

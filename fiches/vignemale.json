@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Vignemale",
+  "elevation_m": 3298,
+  "location": "Pyrénées — Massif du Vignemale",
+  "country": "France / Espagne",
+  "summary": "Plus haut sommet des Pyrénées françaises, le Vignemale dresse sa pique Longue sur la frontière franco-espagnole, au-dessus du glacier d'Ossoue qui offre la voie normale.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne marque la ligne de partage des eaux entre l'Atlantique (bassin de l'Adour) et la Méditerranée (bassin de l'Èbre). C'est aussi le point culminant de la région Occitanie."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "La première ascension revient en 1792 à des bergers de l'équipe de l'arpenteur Junker. Henry Russell, amoureux fou de la montagne, en signe la première hivernale le 11 février 1869 puis y fait creuser sept grottes entre 1881 et 1893 pour y séjourner. La face nord est gravie en 1933."
+    },
+    {
+      "title": "À savoir",
+      "body": "De 1904 à 1906, la « course du Vignemale » opposa les guides de Cauterets et de Gavarnie — la plupart couraient pieds nus."
+    }
+  ],
+  "first_ascent": "1792 — bergers de l'équipe de l'arpenteur Junker (pique Longue)",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Brec de Chambeyron",
+  "elevation_m": 3389,
+  "location": "Alpes — Massif de Chambeyron (Ubaye)",
+  "country": "France / Italie",
+  "summary": "Deuxième sommet du massif de Chambeyron et des Alpes-de-Haute-Provence, le Brec dresse sa silhouette caractéristique au-dessus de Fouillouse et de la haute Ubaye, sur la frontière italienne.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse entre la vallée de l'Ubaye et le Piémont. Le refuge Jean Coste, à 2 626 m, en facilite l'accès depuis Fouillouse."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en 1878 par Paul Agnel et Joseph Risoul, partis de Fouillouse. La voie est cotée PD avec des passages de III/IV, dans un rocher réputé médiocre qui se délite, surtout au printemps et en fin de journée."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le lever de soleil depuis le sommet est réputé — récompense d'un départ nocturne depuis le refuge."
+    }
+  ],
+  "first_ascent": "1878 — Paul Agnel et Joseph Risoul",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

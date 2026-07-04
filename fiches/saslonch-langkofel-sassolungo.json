@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Sassolungo (Langkofel)",
+  "elevation_m": 3181,
+  "location": "Dolomites — Val Gardena / Val di Fassa",
+  "country": "Italie",
+  "summary": "Silhouette la plus spectaculaire au-dessus du val Gardena, le Sassolungo (« longue pierre ») dresse un groupe de tours dolomitiques entre les cols Sella et Gardena.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le groupe aligne plusieurs sommets secondaires — Sassopiatto, Sasso Levante, Campanile Comici — et les fameux pitons des Cinq Doigts (Cinque Dita)."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 13 août 1869 par Paul Grohmann avec Franz Innerkofler et Peter Salcher. Ses parois comptent parmi les grandes classiques d'escalade des Dolomites."
+    },
+    {
+      "title": "À savoir",
+      "body": "Une légende ladine veut que le massif soit le corps pétrifié d'un géant puni — les Cinq Doigts en seraient la main émergeant du sol."
+    }
+  ],
+  "first_ascent": "13 août 1869 — Paul Grohmann, avec Franz Innerkofler et Peter Salcher",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

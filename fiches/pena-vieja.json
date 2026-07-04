@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Peña Vieja",
+  "elevation_m": 2614,
+  "location": "Picos de Europa — Massif central",
+  "country": "Espagne",
+  "summary": "Grande pyramide au-dessus de Fuente Dé, la Peña Vieja est le plus haut sommet entièrement situé en Cantabrie.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet appartient au massif central des Picos de Europa, dans le parc national. Le téléphérique de Fuente Dé en raccourcit nettement l'approche."
+    },
+    {
+      "title": "Ascension",
+      "body": "La voie la plus simple passe par le collado de la Canalona — pierriers raides mais sans escalade en été."
+    },
+    {
+      "title": "À savoir",
+      "body": "Première ascension documentée le 9 juillet 1890 par Aymar de Saint-Saud avec Cosme Soberón et Jerónimo Prieto, lors des grandes campagnes d'exploration des Picos."
+    }
+  ],
+  "first_ascent": "9 juillet 1890 — Aymar de Saint-Saud, avec Cosme Soberón et Jerónimo Prieto",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

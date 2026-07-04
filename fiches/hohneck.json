@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Hohneck",
+  "elevation_m": 1363,
+  "location": "Massif des Vosges",
+  "country": "France",
+  "summary": "Troisième sommet du massif des Vosges et point culminant du département des Vosges, le Hohneck veille sur les cirques glaciaires du Frankenthal et du Wormspel.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, sur la crête principale, subit le climat le plus extrême du massif : vents dépassant régulièrement 150 km/h, températures jusqu'à −30 °C, avalanches dans les couloirs des cirques."
+    },
+    {
+      "title": "Randonnée",
+      "body": "Le célèbre sentier des Roches, taillé dans les parois côté Frankenthal, offre l'un des parcours les plus alpins des Vosges. La route des Crêtes passe à proximité immédiate du sommet."
+    },
+    {
+      "title": "À savoir",
+      "body": "Des chamois, introduits en 1957, peuplent aujourd'hui les cirques du Hohneck. La flore subalpine des hautes chaumes y est remarquable."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

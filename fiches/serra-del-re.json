@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Serra del Re",
+  "elevation_m": 1754,
+  "location": "Monts Nebrodi (Sicile)",
+  "country": "Italie",
+  "summary": "Deuxième sommet des monts Nebrodi, la Serra del Re émerge d'une des plus vastes forêts de Sicile, entre Longi et Bronte, face à l'Etna.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La crête marque la limite entre les villes métropolitaines de Catane et de Messine, au cœur du parc des Nebrodi."
+    },
+    {
+      "title": "Randonnée",
+      "body": "Plusieurs sentiers y mènent à travers hêtraies et pâturages — un visage vert et pastoral de la Sicile, à l'opposé des laves de l'Etna voisin."
+    },
+    {
+      "title": "À savoir",
+      "body": "Depuis la crête, le panorama porte sur l'Etna, les îles Éoliennes et la mer Tyrrhénienne."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

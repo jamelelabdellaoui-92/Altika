@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Ben Macdui",
+  "elevation_m": 1307,
+  "location": "Highlands — Cairngorms",
+  "country": "Royaume-Uni",
+  "summary": "Deuxième sommet du Royaume-Uni après le Ben Nevis, le Ben Macdui couronne le vaste plateau granitique des Cairngorms, l'un des environnements les plus arctiques des îles Britanniques.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse à la limite de l'Aberdeenshire et du Moray, au cœur du parc national des Cairngorms. Des névés persistent presque toute l'année dans ses combes."
+    },
+    {
+      "title": "Histoire",
+      "body": "La reine Victoria en fit l'ascension en 1859. Un indicateur d'orientation y a été érigé en 1925 par le Cairngorm Club."
+    },
+    {
+      "title": "À savoir",
+      "body": "La montagne passe pour être hantée par Am Fear Liath Mòr, le « grand homme gris » : l'alpiniste Norman Collie raconta avoir fui le sommet en entendant des pas dans le brouillard — la plus célèbre légende de la montagne écossaise."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

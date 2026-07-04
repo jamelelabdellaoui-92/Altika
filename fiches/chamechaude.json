@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Chamechaude",
+  "elevation_m": 2082,
+  "location": "Alpes — Massif de la Chartreuse",
+  "country": "France",
+  "summary": "Point culminant du massif de la Chartreuse, Chamechaude dresse sa silhouette de molaire au-dessus de Grenoble — d'où son surnom de « dent de Gargantua ».",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se situe en Isère, à une douzaine de kilomètres au nord-est de Grenoble. Avec environ 1 760 m de proéminence, c'est l'une des plus fortes proéminences de France métropolitaine."
+    },
+    {
+      "title": "Randonnée et escalade",
+      "body": "La voie classique part du col de Porte, avec environ 800 m de dénivelé par le versant ouest. La face est aligne des falaises calcaires verticales de 200 m, équipées de voies du 4b au 7c ouvertes depuis les années 1940."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le calcaire urgonien typique des Préalpes structure la montagne, dont les pentes raides des faces nord et est servent de refuge aux chamois."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Ben Nevis",
+  "elevation_m": 1343,
+  "location": "Highlands — Monts Grampians (Lochaber)",
+  "country": "Royaume-Uni",
+  "summary": "Point culminant des îles Britanniques, le Ben Nevis domine Fort William de son plateau sommital souvent noyé de brume. Environ 100 000 randonneurs le gravissent chaque année.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Son nom gaélique, Beinn Nibheis, évoquerait la « montagne malveillante » — un hommage à son climat exécrable. Sa face nord aligne les plus grandes falaises d'Écosse, hauts lieux de l'escalade glaciaire hivernale."
+    },
+    {
+      "title": "Histoire",
+      "body": "Première ascension le 17 août 1771 par le botaniste James Robertson. Un observatoire météorologique fonctionna au sommet de 1883 à 1904 ; ses ruines subsistent près du cairn sommital."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le refuge Charles Inglis Clark, sous la face nord, passe pour le seul vrai refuge de montagne de Grande-Bretagne. La montagne clôt le « National Three Peaks Challenge »."
+    }
+  ],
+  "first_ascent": "17 août 1771 — James Robertson, botaniste d'Édimbourg",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

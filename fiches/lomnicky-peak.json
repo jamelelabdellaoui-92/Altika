@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Lomnický štít",
+  "elevation_m": 2633,
+  "location": "Hautes Tatras",
+  "country": "Slovaquie",
+  "summary": "Longtemps cru le toit des Tatras, le Lomnický štít est le seul sommet de la chaîne desservi par téléphérique. Il porte un observatoire astronomique et la station météo la plus froide de Slovaquie.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Troisième sommet de Slovaquie, il domine Tatranská Lomnica. Sa température moyenne annuelle de −3,2 °C est la plus basse mesurée dans le pays."
+    },
+    {
+      "title": "Histoire",
+      "body": "Première ascension le 16 août 1793 par le naturaliste écossais Robert Townson. On le tint pour le plus haut des Tatras jusqu'aux mesures de 1838. Sa paroi ouest n'a été vaincue qu'en 1929."
+    },
+    {
+      "title": "À savoir",
+      "body": "Sans le téléphérique, l'ascension exige un guide : aucun sentier balisé ne mène au sommet."
+    }
+  ],
+  "first_ascent": "16 août 1793 — Robert Townson",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

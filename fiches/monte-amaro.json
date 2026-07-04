@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Monte Amaro (Majella)",
+  "elevation_m": 2788,
+  "location": "Apennins — Massif de la Majella (Abruzzes)",
+  "country": "Italie",
+  "summary": "Deuxième sommet des Apennins continentaux après le Corno Grande, le Monte Amaro couronne le vaste dôme pierreux de la Majella, la « montagne mère » des Abruzzes.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet règne sur le parc national de la Majella, un désert calcaire d'altitude entaillé de profonds vallons. Une bulle papale du XIIIe siècle l'appelait « mons Malus », le mont Mauvais."
+    },
+    {
+      "title": "Histoire",
+      "body": "Un refuge royal (Vittorio Emanuele II) se dressait au sommet jusqu'à sa destruction en 1944 ; le petit bivouac rouge qui l'a remplacé est resté célèbre. Pendant la Seconde Guerre mondiale, les Allemands y installèrent un observatoire."
+    },
+    {
+      "title": "À savoir",
+      "body": "Les itinéraires sont tous très longs (souvent plus de 1 500 m de dénivelé) et sans eau — la Majella se mérite."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

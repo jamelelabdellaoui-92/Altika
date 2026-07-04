@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Mont Pourri",
+  "elevation_m": 3779,
+  "location": "Alpes — Massif de la Vanoise",
+  "country": "France",
+  "summary": "Deuxième grand sommet de la Vanoise septentrionale, le mont Pourri dresse sa pyramide glaciaire au-dessus de Peisey-Nancroix et de Villaroger, face à la Tarentaise.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se partage entre les communes de Peisey-Nancroix et Villaroger, en Savoie. Dès 1862, William Mathews en avait calculé l'altitude avec une précision remarquable pour l'époque."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 4 octobre 1861 par le guide chamoniard Michel Croz, après une reconnaissance de William Mathews. La voie par le glacier du Geay est aujourd'hui la plus fréquentée ; la face sud a vu des descentes à ski extrêmes ouvertes par Pierre Tardivel."
+    },
+    {
+      "title": "À savoir",
+      "body": "Un tour du mont Pourri en 4 à 5 jours relie plusieurs refuges. L'origine du nom reste incertaine — peut-être celui d'un grimpeur du XIXe siècle nommé Pury ou Pourrit."
+    }
+  ],
+  "first_ascent": "4 octobre 1861 — Michel Croz",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

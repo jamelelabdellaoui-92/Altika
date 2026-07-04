@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Ortles (Ortler)",
+  "elevation_m": 3874,
+  "location": "Massif de l'Ortles — Tyrol du Sud",
+  "country": "Italie",
+  "summary": "Géant glaciaire du Tyrol du Sud, l'Ortles fut jusqu'en 1919 le point culminant de l'empire austro-hongrois. Sa face nord passe pour la plus grande paroi de glace des Alpes orientales.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne domine le val Venosta, tout près des frontières lombarde et suisse, dans le parc national du Stelvio."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 27 septembre 1804 par le chasseur de chamois Josef Pichler avec Johann Leitner et Johann Klausner — un exploit commandé par l'archiduc Jean d'Autriche. La voie normale (passages III-) part du refuge Payer."
+    },
+    {
+      "title": "Histoire",
+      "body": "Pendant la Première Guerre mondiale, les Autrichiens installèrent des canons au sommet même — la position d'artillerie la plus haute de la guerre —, avec tunnels, station météo et lignes téléphoniques."
+    }
+  ],
+  "first_ascent": "27 septembre 1804 — Josef Pichler, avec Johann Leitner et Johann Klausner",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

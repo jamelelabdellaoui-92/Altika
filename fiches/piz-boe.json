@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Piz Boè",
+  "elevation_m": 3152,
+  "location": "Dolomites — Groupe du Sella",
+  "country": "Italie",
+  "summary": "Point culminant du massif du Sella, le Piz Boè est l'un des 3 000 les plus accessibles des Dolomites : le téléphérique du Sass Pordoi dépose les randonneurs à moins de 300 m sous la cime.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse au carrefour des provinces de Bolzano, Trente et Belluno, au-dessus des cols Pordoi et Campolongo cernés par le célèbre circuit routier de la Sellaronda."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 30 juillet 1864 par Paul Grohmann avec G. Irschara. Le refuge Capanna Fassa occupe aujourd'hui le sommet même."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le panorama embrasse la Marmolada et son glacier, juste en face — l'un des plus beaux belvédères faciles des Dolomites."
+    }
+  ],
+  "first_ascent": "30 juillet 1864 — Paul Grohmann, avec G. Irschara",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

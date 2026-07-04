@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "La Dôle",
+  "elevation_m": 1678,
+  "location": "Massif du Jura — Jura vaudois",
+  "country": "Suisse",
+  "summary": "Deuxième sommet du Jura suisse, la Dôle est reconnaissable entre toutes à son radôme blanc, qui veille sur le trafic aérien de Genève. Goethe s'émerveilla du panorama en 1779.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet domine Nyon et le Léman, dans le canton de Vaud. Sa combe sommitale en fer à cheval est un exemple classique de relief jurassien."
+    },
+    {
+      "title": "Panorama",
+      "body": "La vue embrasse le Léman, Genève, le Mont Blanc et l'arc alpin. Goethe écrivit en 1779 : « Il n'y a pas de termes pour exprimer la beauté et la grandeur de ce spectacle. »"
+    },
+    {
+      "title": "À savoir",
+      "body": "Les coupoles abritent un radar de la navigation aérienne (Skyguide) et des instruments de MétéoSuisse. Le domaine skiable franco-suisse Jura sur Léman équipe ses pentes."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Donon",
+  "elevation_m": 1009,
+  "location": "Massif des Vosges — Vosges gréseuses",
+  "country": "France",
+  "summary": "Montagne sacrée des Celtes puis des Gallo-Romains, le Donon domine les Vosges gréseuses du nord. Son sommet porte les vestiges d'un sanctuaire antique.",
+  "sections": [
+    {
+      "title": "Histoire",
+      "body": "Un sanctuaire gallo-romain des IIe-IIIe siècles occupait le sommet, fréquenté depuis le Néolithique. Le petit temple gréco-romain visible aujourd'hui est une construction de 1869 destinée à abriter les découvertes archéologiques."
+    },
+    {
+      "title": "Géographie",
+      "body": "Le sommet, sur la commune de Grandfontaine (Bas-Rhin), est le plus méridional des grands sommets gréseux des Vosges. Le panorama s'étend sur plusieurs régions."
+    },
+    {
+      "title": "À savoir",
+      "body": "La montagne reste un carrefour de mémoire et de légendes ; une tour de télécommunications et une forêt domaniale exploitée occupent ses pentes."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

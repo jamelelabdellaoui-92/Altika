@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Chasseral",
+  "elevation_m": 1607,
+  "location": "Massif du Jura — Jura bernois",
+  "country": "Suisse",
+  "summary": "Point culminant du Jura bernois, le Chasseral est reconnaissable à son antenne de 120 mètres. Son panorama embrasse le Plateau suisse, les Alpes, les Vosges et la Forêt-Noire.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Quatrième sommet du Jura suisse, la montagne donne son nom au parc régional Chasseral. Sur son versant sud, un phénomène géologique singulier fait glisser des blocs rocheux de 6 à 25 cm par an."
+    },
+    {
+      "title": "Accès",
+      "body": "Une route mène près du sommet, où un hôtel de montagne accueille les visiteurs depuis 1875 (reconstruit en 1926) — l'un des plus fréquentés de Suisse."
+    },
+    {
+      "title": "À savoir",
+      "body": "L'antenne relaie les télécommunications de Swisscom. Depuis 2022, la région se fédère sous l'identité « Grand Chasseral »."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

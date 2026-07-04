@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "La Alcazaba",
+  "elevation_m": 3369,
+  "location": "Sierra Nevada — Andalousie",
+  "country": "Espagne",
+  "summary": "Troisième sommet de la Sierra Nevada, l'Alcazaba (« la forteresse » en arabe) est réputée le plus sauvage des grands sommets du massif : aucun accès n'y est court.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse entre le Mulhacén et le Puntal de Vacares ; sa face nord, imposante, se repère depuis Grenade."
+    },
+    {
+      "title": "Ascension",
+      "body": "Les approches dépassent toutes 20 km aller-retour — la plupart des ascensionnistes bivouaquent une nuit. La neige tient de décembre au printemps et impose alors un équipement hivernal."
+    },
+    {
+      "title": "À savoir",
+      "body": "Des bouquetins ibériques peuplent ses pentes ; la latitude méridionale y offre l'une des plus longues saisons de montagne d'Europe."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Pic d'Aneto",
+  "elevation_m": 3404,
+  "location": "Pyrénées — Massif de la Maladeta",
+  "country": "Espagne",
+  "summary": "Point culminant des Pyrénées, l'Aneto dresse sa calotte glaciaire dans le massif de la Maladeta, en Aragon. Les Français l'ont longtemps appelé « Néthou ».",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se situe dans la province de Huesca. Son glacier, le plus grand de la chaîne, recule rapidement sous l'effet du réchauffement. Ses eaux alimentent la Garonne via le gouffre du Trou du Toro."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 20 juillet 1842 par Platon de Tchihatcheff et Albert de Franqueville avec les guides Pierre Sanio, Pierre Redonnet, Jean Sors et Bernard Arrazau. Juste sous le sommet, l'arête étroite du « pas de Mahomet » impose un dernier passage aérien d'une trentaine de mètres."
+    },
+    {
+      "title": "À savoir",
+      "body": "Les orages d'été de l'après-midi et la traversée du glacier restent les principaux dangers de l'ascension ; partir tôt et être équipé (crampons, piolet) est la règle."
+    }
+  ],
+  "first_ascent": "20 juillet 1842 — Platon de Tchihatcheff et Albert de Franqueville, avec quatre guides",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

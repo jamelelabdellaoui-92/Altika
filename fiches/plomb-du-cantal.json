@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Plomb du Cantal",
+  "elevation_m": 1855,
+  "location": "Massif central — Monts du Cantal",
+  "country": "France",
+  "summary": "Point culminant du Cantal et deuxième sommet du Massif central, le Plomb couronne les restes du plus grand stratovolcan d'Europe, qui mesurait 60 km de diamètre.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Il y a 4 millions d'années, le volcan cantalien dépassait 3 000 m. Le sommet actuel marque la rencontre de trois bassins versants, ceux de la Cère, du Brezons et de l'Alagnon."
+    },
+    {
+      "title": "Accès",
+      "body": "Un téléphérique monte depuis Super-Lioran à proximité du sommet, également parcouru par sentiers de randonnée et itinéraires VTT."
+    },
+    {
+      "title": "À savoir",
+      "body": "Son nom dériverait d'un mot ancien désignant le pommeau d'une épée, en écho à sa forme arrondie. L'été, vaches salers et aubrac paissent sur ses pentes, domaine des fromages d'estive."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

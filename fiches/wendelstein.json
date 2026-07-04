@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Wendelstein",
+  "elevation_m": 1821,
+  "location": "Préalpes bavaroises — Monts du Mangfall",
+  "country": "Allemagne",
+  "summary": "Belvédère le plus fameux des Préalpes bavaroises, le Wendelstein porte la plus haute église d'Allemagne, un observatoire astronomique et deux moyens de remontée historiques.",
+  "sections": [
+    {
+      "title": "Accès",
+      "body": "Un chemin de fer à crémaillère y monte depuis 1912 — modernisé dans les années 1990 —, complété par un téléphérique. La station météo du sommet est occupée en permanence."
+    },
+    {
+      "title": "Sciences",
+      "body": "L'observatoire astronomique de l'université Louis-et-Maximilien de Munich fonctionne au sommet depuis 1939 ; un émetteur de la radio bavaroise y est aussi installé."
+    },
+    {
+      "title": "À savoir",
+      "body": "La petite église du sommet, consacrée en 1890, est la plus haute d'Allemagne. Une grotte à stalactites se visite sous la cime, et les précipitations y comptent parmi les plus fortes de Bavière."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

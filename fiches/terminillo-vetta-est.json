@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Monte Terminillo",
+  "elevation_m": 2210,
+  "location": "Apennins — Monts Reatini (Latium)",
+  "country": "Italie",
+  "summary": "Sommet des monts Reatini au-dessus de Rieti, le Terminillo est la grande montagne des Romains, qui y skient l'hiver à moins de deux heures de la capitale.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne appartient à l'Apennin du Latium ; sa station de sports d'hiver s'étage sur ses pentes autour de Pian de' Valli."
+    },
+    {
+      "title": "Sport",
+      "body": "Le Giro d'Italia et Tirreno-Adriatico y ont régulièrement placé des arrivées d'étape en côte — Nairo Quintana s'y est imposé en 2017."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le 13 février 1955, le crash du vol Sabena 503 sur la montagne fit 29 victimes, l'une des pires catastrophes aériennes d'Italie centrale à l'époque."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

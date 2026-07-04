@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Puy de Dôme",
+  "elevation_m": 1464,
+  "location": "Massif central — Chaîne des Puys",
+  "country": "France",
+  "summary": "Géant de la chaîne des Puys face à Clermont-Ferrand, le puy de Dôme est l'un des plus jeunes volcans de France (environ 11 000 ans) et un haut lieu de science et d'histoire.",
+  "sections": [
+    {
+      "title": "Histoire",
+      "body": "Les Gallo-Romains y ont élevé au Ier ou IIe siècle un temple dédié à Mercure, dont les vestiges sont visibles au sommet. En 1648, l'expérience imaginée par Blaise Pascal y démontra la pesanteur de l'air en comparant le baromètre entre Clermont et le sommet."
+    },
+    {
+      "title": "Accès",
+      "body": "Le Panoramique des Dômes, train à crémaillère, monte au sommet depuis 2012. Le site reçoit environ 500 000 visiteurs par an et a vu 14 arrivées du Tour de France."
+    },
+    {
+      "title": "À savoir",
+      "body": "La « Chaîne des Puys – faille de Limagne » est inscrite au patrimoine mondial de l'UNESCO depuis 2018. Un laboratoire de météorologie de montagne y fonctionnait dès 1876."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

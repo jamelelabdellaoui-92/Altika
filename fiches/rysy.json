@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Rysy",
+  "elevation_m": 2501,
+  "location": "Hautes Tatras",
+  "country": "Slovaquie / Pologne",
+  "summary": "À cheval sur la frontière, le Rysy porte trois pointes : la principale en Slovaquie, et celle du nord-ouest qui est le point culminant de la Pologne.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "C'est le plus haut sommet des Hautes Tatras accessible aux randonneurs par sentiers balisés, sans guide. Un refuge se niche à 2 250 m côté slovaque, et deux parcs nationaux protègent ses versants."
+    },
+    {
+      "title": "Histoire",
+      "body": "Première ascension le 30 juillet 1840 par Eduard Blásy et Ján Ruman Driečny. Pierre et Marie Curie l'ont gravi en 1899 ; la propagande a longtemps prêté une ascension à Lénine en 1913, jamais prouvée."
+    },
+    {
+      "title": "À savoir",
+      "body": "63 espèces de fleurs ont été recensées jusqu'au sommet, malgré l'altitude et le granite."
+    }
+  ],
+  "first_ascent": "30 juillet 1840 — Eduard Blásy et Ján Ruman Driečny",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}
