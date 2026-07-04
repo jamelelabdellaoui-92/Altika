@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Ľadový štít",
+  "elevation_m": 2628,
+  "location": "Hautes Tatras",
+  "country": "Slovaquie",
+  "summary": "Le « pic de glace » — Ľadový štít — doit son nom à la petite vallée glaciaire, la Ľadová dolinka, qui s'étend à son pied. C'est le quatrième sommet de Slovaquie et des Tatras.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, en granodiorite, appartient à la crête principale des Hautes Tatras, dans le parc national slovaque des Tatras. Passé 2 300 m, la végétation alpine cède la place à une flore subnivale clairsemée."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension connue en 1843 par J. Ball et ses compagnons. L'ascension, réservée aux cordées guidées, offre des itinéraires du degré I au V."
+    },
+    {
+      "title": "À savoir",
+      "body": "Les deux versants du sommet sont classés en réserve naturelle protégée."
+    }
+  ],
+  "first_ascent": "1843 — J. Ball et compagnons",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

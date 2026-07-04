@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Blà Bheinn",
+  "elevation_m": 923,
+  "location": "Île de Skye — Cuillin",
+  "country": "Royaume-Uni",
+  "summary": "Isolée du reste du massif du Cuillin, Blà Bheinn (« la montagne bleue ») doit son nom à un mélange de norrois et de gaélique écossais.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Composée de gabbro comme le Cuillin noir, contrairement au Cuillin rouge granitique environnant, la montagne résulte de l'érosion d'une ancienne chambre magmatique vieille d'environ 60 millions d'années."
+    },
+    {
+      "title": "À savoir",
+      "body": "19e sommet le plus proéminent des îles britanniques, elle appartient au domaine de Strathaird, géré par le John Muir Trust depuis 1994. Son gabbro offre une excellente adhérence aux grimpeurs."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

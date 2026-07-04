@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "name": "Birnhorn",
+  "elevation_m": 2571,
+  "location": "Leoganger Steinberge — Land de Salzbourg",
+  "country": "Autriche",
+  "summary": "Point culminant du massif du Leoganger Steinberge, le Birnhorn domine le district de Zell am See dans le Land de Salzbourg.",
+  "sections": [
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en 1831 par Karl Thurwieser. Le refuge de Passau dessert la voie d'ascension la plus facile."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le sommet compte parmi les sommets ultra-proéminents d'Europe."
+    }
+  ],
+  "first_ascent": "1831 — Karl Thurwieser",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

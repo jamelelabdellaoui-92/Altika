@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Petit Ballon",
+  "elevation_m": 1272,
+  "location": "Massif des Vosges",
+  "country": "France",
+  "summary": "Sommet vosgien surmonté d'une statue de la Vierge, le Petit Ballon fut le théâtre de combats acharnés entre troupes françaises et allemandes en 1915.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, dans le Haut-Rhin, domine plus de 750 hectares de pelouses d'altitude — un cinquième de l'ensemble des Hautes Vosges — qui abritent lynx, une dizaine d'espèces de chauves-souris et une flore protégée."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le Tour de France y est passé en 2014 (10e étape) et en 2023 (20e étape). Quatre itinéraires de difficulté variable montent jusqu'au col voisin, à 1 165 m."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Pic d'Anie",
+  "elevation_m": 2504,
+  "location": "Pyrénées — Béarn",
+  "country": "France",
+  "summary": "Point culminant du cirque de Lescun, le pic d'Anie domine un immense paysage karstique, les arres d'Anie, où s'ouvre l'un des plus vastes réseaux souterrains du monde.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse en vallée d'Aspe, Pyrénées-Atlantiques. Les fissures verticales du karst, profondes d'environ 200 m, ont été sculptées par la dissolution du calcaire ; le gouffre de la Pierre Saint-Martin s'ouvre dans le même massif."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 28 juillet 1771 par l'ingénieur-géographe François Flamichon."
+    },
+    {
+      "title": "À savoir",
+      "body": "Les Basques l'appellent Auñamendi, « la montagne des chamois » — un nom qui désignait autrefois l'ensemble des Pyrénées. La légende veut que des forces surnaturelles en aient longtemps dissuadé l'ascension."
+    }
+  ],
+  "first_ascent": "28 juillet 1771 — François Flamichon, ingénieur-géographe",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

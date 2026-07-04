@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Tofana di Mezzo",
+  "elevation_m": 3244,
+  "location": "Dolomites — Massif des Tofane (Cortina d'Ampezzo)",
+  "country": "Italie",
+  "summary": "Sommet central du massif des Tofane à l'ouest de Cortina d'Ampezzo, la Tofana di Mezzo fut un champ de bataille entre troupes italiennes et austro-hongroises durant la Première Guerre mondiale.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le massif des Tofane, dans les Dolomites orientales, aligne trois sommets dépassant 3 000 m : Rozes, Mezzo et Dentro."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 29 août 1863 par Paul Grohmann et Francesco Lacedelli."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le téléphérique « Freccia nel Cielo » (flèche dans le ciel), en trois tronçons depuis Cortina, mène jusqu'au sommet. Les glaciers historiques du massif ont presque entièrement disparu."
+    }
+  ],
+  "first_ascent": "29 août 1863 — Paul Grohmann et Francesco Lacedelli",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

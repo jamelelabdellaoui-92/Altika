@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Weissmies",
+  "elevation_m": 4011,
+  "location": "Alpes pennines — Vallée de Saas",
+  "country": "Suisse",
+  "summary": "L'un des 4 000 les plus accessibles des Alpes valaisannes, le Weissmies se gravit avec crampons et piolet mais sans réelle difficulté technique.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, qui forme avec le Lagginhorn et le Fletschhorn une chaîne de trois 4 000, domine Saas-Grund et Saas-Almagell."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en août 1855 par Jakob Christian Heusser et Peter Josef Zurbriggen, par l'arête du Trift côté Saas-Almagell. La cabane Weissmies (2 726 m) dessert la voie normale."
+    },
+    {
+      "title": "À savoir",
+      "body": "« Mies » viendrait d'un mot dialectal signifiant mousse. Par temps exceptionnellement clair, la flèche de la cathédrale de Milan serait visible aux jumelles depuis le sommet."
+    }
+  ],
+  "first_ascent": "Août 1855 — Jakob Christian Heusser et Peter Josef Zurbriggen",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

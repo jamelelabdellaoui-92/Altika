@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Inaccessible Pinnacle (Sgùrr Dearg)",
+  "elevation_m": 959,
+  "location": "Île de Skye — Cuillin",
+  "country": "Royaume-Uni",
+  "summary": "Perché au sommet du Sgùrr Dearg, l'Inaccessible Pinnacle est le seul Munro dont l'ascension finale exige de l'escalade — une lame de basalte de 50 mètres, jamais gravie par Hugh Munro lui-même.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Contrairement au reste du Cuillin, en gabbro, ce piton sommital est fait de basalte, glissant par temps humide. Une arête effilée, avec un à-pic vertigineux d'un côté, mène à son point culminant."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en 1880 par les frères Pilkington. Le passage reste aujourd'hui le seul obstacle véritablement alpin du parcours des 282 Munros écossais."
+    },
+    {
+      "title": "À savoir",
+      "body": "Ironie de la classification qu'il a créée : Hugh Munro, qui donna son nom aux sommets écossais de plus de 3 000 pieds, n'a jamais réussi à gravir ce piton de son vivant."
+    }
+  ],
+  "first_ascent": "1880 — les frères Pilkington",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

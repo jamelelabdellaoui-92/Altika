@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Pico Tesorero",
+  "elevation_m": 2564,
+  "location": "Picos de Europa — Massif central (Urrieles)",
+  "country": "Espagne",
+  "summary": "L'un des sommets les plus gravis des Picos de Europa, le Pico Tesorero marque le point de rencontre de trois provinces espagnoles : León, Asturies et Cantabrie.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse dans le massif central (sierra de los Urrieles), au-dessus du refuge-bivouac de la Cabaña Verónica."
+    },
+    {
+      "title": "À savoir",
+      "body": "Un « buzón de cumbres » (boîte de sommet, registre métallique) y est installé, comme sur de nombreux sommets espagnols fréquentés."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

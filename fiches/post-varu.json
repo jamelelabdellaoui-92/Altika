@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Postăvaru",
+  "elevation_m": 1792,
+  "location": "Carpates — Monts Postăvaru (Brașov)",
+  "country": "Roumanie",
+  "summary": "Sommet dominant la ville de Brașov, le Postăvaru porte sur ses pentes la station de sports d'hiver de Poiana Brașov, l'une des plus fréquentées de Roumanie.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le massif appartient aux Carpates orientales ; un télésiège permet d'atteindre le sommet après une courte marche."
+    },
+    {
+      "title": "À savoir",
+      "body": "La montagne porte aussi un nom allemand (Schulerberg) et un nom hongrois (Keresztényhavas), hérités du peuplement multiethnique historique de Transylvanie."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

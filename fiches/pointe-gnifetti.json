@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Pointe Gnifetti (Signalkuppe)",
+  "elevation_m": 4554,
+  "location": "Alpes pennines — Massif du Mont Rose",
+  "country": "Suisse / Italie",
+  "summary": "Sommet le plus fréquenté du Mont Rose grâce à son accès relativement facile, la pointe Gnifetti porte à son sommet la cabane Regina Margherita, le plus haut refuge des Alpes.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse sur la frontière italo-suisse ; par temps clair, on l'aperçoit depuis une grande partie de la plaine du Pô."
+    },
+    {
+      "title": "Histoire",
+      "body": "Elle doit son nom à l'abbé Giovanni Gnifetti, qui en réalisa la première ascension le 9 août 1842. Son nom allemand, Signalkuppe, rappelle un obélisque rocheux qui la signalait autrefois, démoli lors de la construction du refuge en 1893."
+    },
+    {
+      "title": "À savoir",
+      "body": "Cinquième sommet d'Italie par l'altitude, trois arêtes distinctes partent de son sommet vers différents cols et pics voisins."
+    }
+  ],
+  "first_ascent": "9 août 1842 — abbé Giovanni Gnifetti",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

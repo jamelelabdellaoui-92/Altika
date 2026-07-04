@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "name": "Hochgall (Monte Collalto)",
+  "elevation_m": 3436,
+  "location": "Alpes de Rieserferner — Tyrol du Sud",
+  "country": "Italie",
+  "summary": "Point culminant de la chaîne du Rieserferner, le Hochgall — Monte Collalto en italien — se dresse dans le Tyrol du Sud, entre les sommets du Johannisberg et du Klockerin.",
+  "sections": [
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en 1854 par Hermann van Acken."
+    },
+    {
+      "title": "À savoir",
+      "body": "15e sommet des Hohe Tauern par l'altitude, il porte officiellement ses deux noms, allemand et italien, comme la plupart des cimes du Tyrol du Sud."
+    }
+  ],
+  "first_ascent": "1854 — Hermann van Acken",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

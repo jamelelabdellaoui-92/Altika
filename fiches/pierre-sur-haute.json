@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Pierre-sur-Haute",
+  "elevation_m": 1634,
+  "location": "Massif central — Monts du Forez",
+  "country": "France",
+  "summary": "Point culminant des monts du Forez et du département de la Loire, Pierre-sur-Haute porte à son sommet une ancienne station militaire hertzienne construite par l'OTAN en 1961, en pleine Guerre froide.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, à la limite de la Loire et du Puy-de-Dôme, domine des plateaux dénudés balayés par la « burle », le vent du nord caractéristique du Forez — un terrain qui en fait aussi un site prisé de snowkite."
+    },
+    {
+      "title": "Accès",
+      "body": "La station de ski de Chalmazel occupe son versant est ; le GR3 dessert le sommet, équipé aujourd'hui d'un radar de l'aviation civile en plus de la station militaire. Par temps clair, les Alpes sont visibles depuis la cime."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

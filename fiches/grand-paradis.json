@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Grand Paradis (Gran Paradiso)",
+  "elevation_m": 4061,
+  "location": "Alpes grées — Val d'Aoste",
+  "country": "Italie",
+  "summary": "Plus haut sommet entièrement italien, le Grand Paradis est aussi l'un des 4 000 les plus accessibles des Alpes — souvent la première grande ascension glaciaire des alpinistes débutants.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse dans le val d'Aoste, au cœur du parc national du Grand-Paradis, créé en 1922 à partir d'une réserve royale fondée en 1856 pour protéger le bouquetin des Alpes de l'extinction."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 4 septembre 1860 par John Jermyn Cowell, W. Dundas, Michel-Ambroise Payot et Jean Tairraz. La voie normale, par le glacier du Grand Paradis depuis le refuge Victor-Emmanuel II, est cotée F+."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le toponyme viendrait du patois valdôtain « granta parei », signifiant « grande paroi »."
+    }
+  ],
+  "first_ascent": "4 septembre 1860 — J. J. Cowell, W. Dundas, Michel-Ambroise Payot et Jean Tairraz",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

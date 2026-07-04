@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Pic des Trois Seigneurs",
+  "elevation_m": 2199,
+  "location": "Pyrénées — Ariège",
+  "country": "France",
+  "summary": "Selon la tradition, trois seigneurs de vallées voisines se seraient jadis réunis sur son sommet plat pour régler leurs différends territoriaux — d'où le nom du pic des Trois Seigneurs.",
+  "sections": [
+    {
+      "title": "Histoire",
+      "body": "Dès le XVIIe siècle, de grandes caravanes d'ânes et de mulets transportaient par les cols voisins le charbon de bois des forêts du Couserans vers les forges catalanes. Au XIXe siècle, des glaciéristes extrayaient des blocs de glace de 25 kg du petit glacier des Ambans, sur la face nord, pour les acheminer jusqu'à Toulouse — un tiers fondait en chemin."
+    },
+    {
+      "title": "À savoir",
+      "body": "Ce glacier a totalement disparu depuis le début du XXIe siècle. Le sommet, dans le parc naturel régional des Pyrénées ariégeoises, offre un panorama exceptionnel."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Grand Muveran",
+  "elevation_m": 3051,
+  "location": "Alpes vaudoises — Frontière Vaud / Valais",
+  "country": "Suisse",
+  "summary": "Troisième sommet du canton de Vaud après les Diablerets et l'Oldenhorn, le Grand Muveran a inspiré en 1912 une toile du peintre suisse Ferdinand Hodler, vendue plus de 1,5 million de francs suisses en 2003.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, à la frontière des cantons de Vaud et du Valais, forme vu du nord une large muraille massive, contrastant avec le Petit Muveran voisin (2 810 m), en forme de petite dent."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le nom viendrait d'une racine celtique, ou de « mont de la Vare », désignant un pâturage à son pied. La montagne se repère de très loin dans la région."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

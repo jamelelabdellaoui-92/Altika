@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Puy Griou",
+  "elevation_m": 1690,
+  "location": "Massif central — Monts du Cantal",
+  "country": "France",
+  "summary": "Silhouette conique la plus photographiée des monts du Cantal, le Puy Griou fut longtemps pris pour la cheminée volcanique érodée du grand stratovolcan cantalien ; c'est en réalité un dôme de phonolite.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Mis en place il y a environ 6 millions d'années, après les grandes phases éruptives du volcan cantalien, le dôme est aujourd'hui entouré d'un manteau d'éboulis façonné par le gel lors des périodes froides du Quaternaire."
+    },
+    {
+      "title": "Randonnée",
+      "body": "Le GR400, qui fait le tour des monts du Cantal, longe sa base ; une sente permet d'en gravir les 200 derniers mètres de dénivelé jusqu'au sommet."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

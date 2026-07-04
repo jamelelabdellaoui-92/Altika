@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Monte Viglio",
+  "elevation_m": 2150,
+  "location": "Apennins — Monts Càntari (Latium / Abruzzes)",
+  "country": "Italie",
+  "summary": "Point culminant des monts Càntari, une chaîne très ramassée d'une dizaine de kilomètres à peine, le Monte Viglio conserve certaines années de petits névés malgré une altitude modérée.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet marque la limite entre Latium et Abruzzes ; par temps clair, le panorama porte sur le Fucino, le Sirente-Velino, la Majella et le Gran Sasso."
+    },
+    {
+      "title": "À savoir",
+      "body": "Deux itinéraires y montent : une voie nord alpine, exposée aux avalanches en hiver, et une voie sud plus longue à travers la forêt."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

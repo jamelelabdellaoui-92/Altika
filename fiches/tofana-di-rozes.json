@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Tofana di Rozes",
+  "elevation_m": 3225,
+  "location": "Dolomites — Massif des Tofane (Cortina d'Ampezzo)",
+  "country": "Italie",
+  "summary": "Sommet le plus méridional du massif des Tofane, la Tofana di Rozes porte sur ses flancs les vestiges impressionnants de la Grande Guerre, dont la via ferrata Giovanni Lipella.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet domine Cortina d'Ampezzo et San Vito di Cadore, dans les Dolomites orientales (province de Belluno)."
+    },
+    {
+      "title": "Histoire",
+      "body": "En juillet 1916, les Italiens firent sauter 35 tonnes d'explosifs sous le « Castelletto », position fortifiée autrichienne accrochée à la montagne — l'un des épisodes les plus spectaculaires du front dolomitique."
+    },
+    {
+      "title": "À savoir",
+      "body": "La via ferrata Giovanni Lipella traverse aujourd'hui les galeries et postes creusés durant le conflit."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

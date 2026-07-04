@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "name": "Aiguille Centrale d'Arves",
+  "elevation_m": 3513,
+  "location": "Alpes — Massif des Arves (Maurienne)",
+  "country": "France",
+  "summary": "Sommet central du trio des aiguilles d'Arves, en Maurienne, l'Aiguille Centrale fut gravie dès 1839 par des chasseurs de chamois locaux, les frères Magnin — bien avant l'essor de l'alpinisme dans le massif.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le massif des Arves, en flysch gréso-schisteux, se dresse à la frontière de la Savoie et des Hautes-Alpes."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en 1839 par les frères Magnin, chasseurs de chamois. La traversée intégrale des trois aiguilles ne fut réalisée qu'en 1902, en trois jours."
+    }
+  ],
+  "first_ascent": "1839 — les frères Magnin, chasseurs de chamois",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

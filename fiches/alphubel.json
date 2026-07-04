@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "name": "Alphubel",
+  "elevation_m": 4206,
+  "location": "Alpes pennines — Massif des Mischabel",
+  "country": "Suisse",
+  "summary": "Réputé l'un des 4 000 les plus abordables du massif des Mischabel, l'Alphubel se gravit par une voie normale glaciaire sans grande difficulté depuis l'hôtel du Längflue.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet domine Saas-Fee, dans le district de Viège en Valais."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 9 août 1860 par Leslie Stephen et Thomas Woodbine Hinchliff, avec les guides Melchior Anderegg et Peter Perren."
+    }
+  ],
+  "first_ascent": "9 août 1860 — Leslie Stephen et T. W. Hinchliff, avec Melchior Anderegg et Peter Perren",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

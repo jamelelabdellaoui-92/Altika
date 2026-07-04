@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Ben Lawers",
+  "elevation_m": 1207,
+  "location": "Highlands — Perthshire",
+  "country": "Royaume-Uni",
+  "summary": "Point culminant du Perthshire, Ben Lawers est protégé par le National Trust for Scotland pour sa flore alpine exceptionnelle, l'une des plus riches de Grande-Bretagne.",
+  "sections": [
+    {
+      "title": "Nature",
+      "body": "Le calcaire affleurant sur ses pentes soutient une flore alpine rare pour la latitude, à l'origine du classement du site en réserve gérée par le National Trust for Scotland."
+    },
+    {
+      "title": "À savoir",
+      "body": "Munro et Marilyn, la montagne domine le Loch Tay et reste l'un des grands sites de randonnée botanique d'Écosse."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

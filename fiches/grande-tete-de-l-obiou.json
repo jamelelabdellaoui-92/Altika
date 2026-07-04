@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Grande Tête de l'Obiou",
+  "elevation_m": 2789,
+  "location": "Alpes — Massif du Dévoluy",
+  "country": "France",
+  "summary": "Point culminant du Dévoluy, la Grande Tête de l'Obiou se dresse en butte-témoin isolée face aux massifs du Vercors, du Taillefer et des Écrins — et fut le théâtre de deux catastrophes aériennes.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, en Isère, est à mi-distance de Grenoble et de Gap, au nord de la chaîne occidentale du Dévoluy."
+    },
+    {
+      "title": "Histoire",
+      "body": "Un bombardier B-17 américain s'y est écrasé le 29 août 1946, découvert seulement le 26 septembre suivant à 2 700 m — onze morts. Le 13 novembre 1950, un DC-4 canadien, le « Pèlerin canadien », s'y est également écrasé, tuant 58 personnes à la suite d'une erreur de navigation due à des vents d'ouest plus forts que prévu."
+    },
+    {
+      "title": "Randonnée",
+      "body": "La voie normale, par le versant sud depuis les cabanes de Baumes et le col des Faïsses, est très fréquentée mais expose aux chutes de pierres."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

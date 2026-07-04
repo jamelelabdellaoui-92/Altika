@@ -1,0 +1,15 @@
+{
+  "v": 1,
+  "name": "Sonntagshorn",
+  "elevation_m": 1952,
+  "location": "Alpes de Chiemgau — Bavière / Salzbourg",
+  "country": "Allemagne / Autriche",
+  "summary": "Point culminant du massif du Chiemgau, le Sonntagshorn se dresse à cheval sur la frontière entre la Bavière et le Land de Salzbourg.",
+  "sections": [
+    {
+      "title": "À savoir",
+      "body": "Son nom, qui évoque un « toit ouvert au soleil » (Sonnendach), fait référence à son versant sud en pente douce, longuement exposé au soleil."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

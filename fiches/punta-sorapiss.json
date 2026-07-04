@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Punta Sorapiss",
+  "elevation_m": 3205,
+  "location": "Dolomites — Groupe du Sorapiss (Cortina d'Ampezzo)",
+  "country": "Italie",
+  "summary": "Point culminant du groupe du Sorapiss, la Punta Sorapiss domine le lac turquoise du même nom, l'un des plus photographiés des Dolomites.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le massif, en fer à cheval ouvert sur la vallée de l'Ansiei, s'étend sur les communes de Cortina d'Ampezzo, San Vito di Cadore et Auronzo di Cadore."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en 1864 par l'Autrichien Paul Grohmann. En 1929, Emilio Comici y ouvrit le premier sixième degré dolomitique italien."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le 1er octobre 2013, un pan de 300 m de large s'est détaché de la Croda Marcora voisine. Les Alta Via 3 et 4, grands itinéraires de traversée des Dolomites, passent par le massif."
+    }
+  ],
+  "first_ascent": "1864 — Paul Grohmann",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

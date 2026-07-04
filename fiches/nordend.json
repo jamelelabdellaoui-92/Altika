@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Nordend",
+  "elevation_m": 4609,
+  "location": "Alpes pennines — Massif du Mont Rose",
+  "country": "Suisse / Italie",
+  "summary": "Sommet le plus septentrional du massif du Mont Rose, le Nordend est le deuxième sommet du massif après la pointe Dufour et le point culminant de la province italienne du Verbano-Cusio-Ossola.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet chevauche la frontière italo-suisse, au nord du massif du Mont Rose."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 26 août 1861 par T. F. et Edward N. Buxton et John Jermyn Cowell, avec le guide Michel-Ambroise Payot."
+    },
+    {
+      "title": "À savoir",
+      "body": "En 1984, la face est a vu l'ouverture de la « directissime du Linceul », gravie pour la première fois en hiver en 1993."
+    }
+  ],
+  "first_ascent": "26 août 1861 — T. F. et E. N. Buxton, J. J. Cowell, avec Michel-Ambroise Payot",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

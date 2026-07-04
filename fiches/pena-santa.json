@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Peña Santa (Torre Santa)",
+  "elevation_m": 2596,
+  "location": "Picos de Europa — Massif occidental (Cornión)",
+  "country": "Espagne",
+  "summary": "Point culminant du massif occidental des Picos de Europa, la Peña Santa — plus exactement « Torre Santa » selon la convention locale des grands sommets — domine la province de León.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, dans le massif du Cornión, présente une proéminence de 1 133 m, l'une des plus fortes du massif."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 4 août 1892 par Paul Labrouche, François Bernat-Salles et Vicente Marcos. Les voies d'accès comportent des passages de degré II-III."
+    },
+    {
+      "title": "À savoir",
+      "body": "Les grandes cimes des Picos de Europa portent traditionnellement le nom de « Torre », les sommets secondaires celui de « Pica », « Pico » ou « Peña » — d'où une confusion fréquente avec d'autres « Peña Santa », comme celle d'Enol dans les Asturies."
+    }
+  ],
+  "first_ascent": "4 août 1892 — Paul Labrouche, François Bernat-Salles et Vicente Marcos",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

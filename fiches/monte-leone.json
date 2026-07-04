@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "name": "Monte Leone",
+  "elevation_m": 3552,
+  "location": "Alpes lépontines — Col du Simplon",
+  "country": "Suisse / Italie",
+  "summary": "Point culminant des Alpes lépontines, le Monte Leone domine le col du Simplon à cheval sur la frontière italo-suisse.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet marque le point le plus élevé du secteur occidental des Alpes tessinoises, entre Valais et Piémont."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en août 1859 par le Suisse Johann Jakob Weilenmann, en solitaire. Une première ascension à ski y fut réalisée en 1913 par Marcel Kurz. La voie normale suit l'arête sud."
+    }
+  ],
+  "first_ascent": "Août 1859 — Johann Jakob Weilenmann, en solitaire",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

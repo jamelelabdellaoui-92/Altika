@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Castor",
+  "elevation_m": 4228,
+  "location": "Alpes pennines — Massif du Mont Rose",
+  "country": "Suisse / Italie",
+  "summary": "Avec son jumeau le Pollux, Castor forme « les Jumeaux » du massif du Mont Rose, entre le Breithorn et la Pointe Dufour, sur la frontière italo-suisse.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse sur la ligne de partage des eaux entre Adriatique et Méditerranée, entre Valais et Val d'Aoste."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 23 août 1861 par William Mathews et Frederick William Jacomb avec Michel Croz."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le nom, tiré des Dioscures de la mythologie grecque, désigne le plus haut des deux frères ; le Pollux voisin culmine à 4 092 m."
+    }
+  ],
+  "first_ascent": "23 août 1861 — William Mathews et Frederick William Jacomb, avec Michel Croz",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

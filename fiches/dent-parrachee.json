@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "name": "Dent Parrachée",
+  "elevation_m": 3697,
+  "location": "Alpes — Massif de la Vanoise (Maurienne)",
+  "country": "France",
+  "summary": "Pyramide dominant la Maurienne dans le sud du massif de la Vanoise, la Dent Parrachée doit son nom à un glacier ainsi désigné dès une carte savoyarde de 1855.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse en Savoie, accessible depuis Aussois par le refuge de la Dent Parrachée ou celui de la Fournache."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en 1862 par des chasseurs de Modane."
+    }
+  ],
+  "first_ascent": "1862 — chasseurs de Modane",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

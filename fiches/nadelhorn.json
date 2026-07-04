@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "name": "Nadelhorn",
+  "elevation_m": 4327,
+  "location": "Alpes pennines — Massif des Mischabel",
+  "country": "Suisse",
+  "summary": "Sommet du massif des Mischabel, deuxième massif de Suisse par l'altitude après le Mont Rose, le Nadelhorn se gravit classiquement par sa face sud-ouest.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet appartient au district de Viège, dans le canton du Valais, entre les vallées de Saas et de Zermatt."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 16 septembre 1858 par Franz Andenmatten, B. Epiney, Aloys Supersaxo et J. Zimmermann."
+    }
+  ],
+  "first_ascent": "16 septembre 1858 — Franz Andenmatten, B. Epiney, Aloys Supersaxo et J. Zimmermann",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

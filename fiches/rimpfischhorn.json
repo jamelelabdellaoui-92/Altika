@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "name": "Rimpfischhorn",
+  "elevation_m": 4198,
+  "location": "Alpes pennines — Zermatt / Saas-Fee",
+  "country": "Suisse",
+  "summary": "Pyramide accessible depuis Zermatt ou Saas-Fee, le Rimpfischhorn doit son nom à son arête nord déchiquetée — « rimpfen » signifie « labourer, plisser » en dialecte.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse dans le district de Viège, entre les deux grandes stations valaisannes."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 9 septembre 1859 par Melchior Anderegg, Leslie Stephen, R. Liveing et Johann Zumtaugwald. La voie normale suit l'arête sud-ouest (PD+, escalade de degré II). Une première ascension à ski hivernale a été réalisée en 1912 par Marcel Kurz."
+    }
+  ],
+  "first_ascent": "9 septembre 1859 — Melchior Anderegg, Leslie Stephen, R. Liveing et Johann Zumtaugwald",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

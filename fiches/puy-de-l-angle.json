@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Puy de l'Angle",
+  "elevation_m": 1738,
+  "location": "Massif central — Monts Dore",
+  "country": "France",
+  "summary": "Sommet des monts Dore marqué d'une croix de fer plantée près de sa cime, le puy de l'Angle domine la limite des communes de Chambon-sur-Lac et du Mont-Dore.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne, de trachy-andésite basaltique vieille d'environ 300 000 ans, se situe en Puy-de-Dôme."
+    },
+    {
+      "title": "Randonnée",
+      "body": "Le GR4 dessert le sommet par plusieurs itinéraires de 1,7 à 6 km selon le point de départ ; la course pédestre régionale de la Sancylienne y trouve son arrivée."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Ober Gabelhorn",
+  "elevation_m": 4073,
+  "location": "Alpes pennines — Val d'Anniviers / Zermatt",
+  "country": "Suisse",
+  "summary": "Pyramide élégante souvent comparée à l'Alpamayo ou à l'Ama Dablam en modèle réduit, l'Ober Gabelhorn appartient à la « couronne » de cinq 4 000 qui entoure Zinal.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse dans le Val de Zinal, partie sud-est du val d'Anniviers, canton du Valais."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 6 juillet 1865 par A. W. Moore et Horace Walker avec Jakob Anderegg, par la face est. Sa face nord, glaciaire et lisse, plonge de 450 m avec une pente moyenne de 55°."
+    },
+    {
+      "title": "À savoir",
+      "body": "La Klucker Tower, un gendarme de l'arête, est équipée de cordes fixes depuis 1918."
+    }
+  ],
+  "first_ascent": "6 juillet 1865 — A. W. Moore et Horace Walker, avec Jakob Anderegg",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

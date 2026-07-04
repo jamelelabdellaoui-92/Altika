@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Monte Gorzano",
+  "elevation_m": 2453,
+  "location": "Apennins — Monts de la Laga (Abruzzes / Latium)",
+  "country": "Italie",
+  "summary": "Point culminant des monts de la Laga et de la région du Latium, le Monte Gorzano marque la frontière entre les provinces de Teramo et de Rieti.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, entre les communes d'Amatrice et de Crognaleto, appartenait entièrement au territoire abruzzais jusqu'en 1927. Le fleuve Tordino y prend sa source."
+    },
+    {
+      "title": "À savoir",
+      "body": "Un sentier de difficulté moyenne permet d'y accéder."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "name": "Pic Perdiguère",
+  "elevation_m": 3222,
+  "location": "Pyrénées — Comminges / Aragon",
+  "country": "France / Espagne",
+  "summary": "Point culminant du massif du Perdiguère et de la Haute-Garonne, ce sommet frontière domine Bagnères-de-Luchon côté français et Benasque côté espagnol.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet marque la frontière entre la Haute-Garonne et la communauté autonome d'Aragon."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en 1852 par Toussaint Lézat. La voie normale part du refuge du Portillon par l'arête est ; une variante passe par les pics voisins de Literole et de Royo."
+    }
+  ],
+  "first_ascent": "1852 — Toussaint Lézat",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "name": "Parseierspitze",
+  "elevation_m": 2952,
+  "location": "Alpes du Lechtal — Tyrol",
+  "country": "Autriche",
+  "summary": "Point culminant des Alpes du Lechtal et des Préalpes orientales septentrionales, la Parseierspitze domine la ville de Landeck.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, dans le Tyrol autrichien, se gravit classiquement depuis Grins par le refuge d'Augsbourg, sur le versant sud-est."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 23 août 1869 par Joseph Anton Specht avec le guide Peter Siess."
+    }
+  ],
+  "first_ascent": "23 août 1869 — Joseph Anton Specht, avec le guide Peter Siess",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

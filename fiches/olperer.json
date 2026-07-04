@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "name": "Olperer",
+  "elevation_m": 3441,
+  "location": "Alpes de Zillertal — Tyrol",
+  "country": "Autriche",
+  "summary": "Pyramide caractéristique des Alpes de Zillertal, l'Olperer domine le glacier de Hintertux, destination d'alpinisme appréciée depuis l'ouverture du refuge Olpererhütte en 1881.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse entre les districts d'Innsbruck-Land et de Schwaz, au Tyrol."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 10 septembre 1867 par Paul Grohmann, Georg Samer et Jakob Huber. L'arête sud-est, cotée UIAA II-III, en est la voie normale."
+    }
+  ],
+  "first_ascent": "10 septembre 1867 — Paul Grohmann, Georg Samer et Jakob Huber",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

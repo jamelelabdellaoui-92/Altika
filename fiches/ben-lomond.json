@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Ben Lomond",
+  "elevation_m": 968,
+  "location": "Highlands — Loch Lomond",
+  "country": "Royaume-Uni",
+  "summary": "Munro le plus austral d'Écosse, Ben Lomond est aussi le plus fréquenté du pays grâce à sa proximité immédiate avec Glasgow.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne domine la rive orientale du Loch Lomond ; le sentier longue distance West Highland Way passe à son pied."
+    },
+    {
+      "title": "À savoir",
+      "body": "Propriété du National Trust for Scotland, elle doit une partie de sa renommée à la chanson populaire « The Bonnie Banks o' Loch Lomond ». Son nom gaélique, Beinn Laomainn, reste discuté quant à son origine exacte."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

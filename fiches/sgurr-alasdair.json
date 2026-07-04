@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Sgùrr Alasdair",
+  "elevation_m": 936,
+  "location": "Île de Skye — Cuillin",
+  "country": "Royaume-Uni",
+  "summary": "Point culminant de l'île de Skye, le Sgùrr Alasdair (« pic d'Alexandre ») domine le massif du Cuillin noir, dont le gabbro compte parmi les meilleurs rochers d'Écosse pour l'escalade.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, classé Munro et Marilyn, se dresse au cœur du massif du Cuillin, sur l'île de Skye."
+    },
+    {
+      "title": "À savoir",
+      "body": "La roche de gabbro, contrairement au granite du Cuillin rouge voisin, offre une adhérence exceptionnelle — l'un des grands terrains de jeu de l'escalade britannique."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

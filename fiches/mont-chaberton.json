@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Mont Chaberton",
+  "elevation_m": 3131,
+  "location": "Alpes — Briançonnais",
+  "country": "France",
+  "summary": "Le mont Chaberton porte à son sommet plat les ruines d'un fort italien surnommé le « cuirassé des nuages », le plus haut fort d'Europe lors de sa construction en 1910.",
+  "sections": [
+    {
+      "title": "Histoire",
+      "body": "Territoire italien jusqu'en 1947, le sommet fut le théâtre d'un épisode marquant de la Seconde Guerre mondiale : le 21 juin 1940, l'artillerie française de 280 mm endommagea six des huit tourelles du fort italien."
+    },
+    {
+      "title": "À savoir",
+      "body": "Les ruines du fort, aujourd'hui classées monument historique depuis le 4 février 2021, restent visibles au sommet, accessible depuis le col du Chaberton."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Ben Cruachan",
+  "elevation_m": 1112,
+  "location": "Highlands — Argyll",
+  "country": "Royaume-Uni",
+  "summary": "Surnommée « la montagne creuse », Ben Cruachan cache dans ses entrailles une centrale hydroélectrique à pompage-turbinage, l'une des plus originales du Royaume-Uni.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Point culminant d'Argyll and Bute, la montagne domine le Loch Awe. La gare historique de Falls of Cruachan se trouve à son pied."
+    },
+    {
+      "title": "À savoir",
+      "body": "Une caverne artificielle abrite la centrale, qui pompe l'eau du loch vers un réservoir de crête la nuit pour la turbiner aux heures de pointe. « Cruachan ! » est aussi le cri de guerre historique des clans Campbell et MacIntyre."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

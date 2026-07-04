@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "name": "Ben Lui",
+  "elevation_m": 1122,
+  "location": "Highlands du Sud — Argyll",
+  "country": "Royaume-Uni",
+  "summary": "Pyramide la plus reconnaissable des Southern Highlands, Ben Lui déploie cinq crêtes rayonnant depuis son sommet, au cœur d'un ancien site classé pour sa flore rare.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne est un nœud hydrographique : ses eaux rejoignent trois bassins distincts — la Tay vers la mer du Nord, le Loch Lomond vers la Clyde, et la Lochy vers l'Atlantique."
+    },
+    {
+      "title": "Nature",
+      "body": "Un lochan sur ses pentes est identifié comme la source de la Tay, le plus long cours d'eau d'Écosse. D'anciennes réserves naturelles y protègent saxifrages, mousses et lichens rares, favorisés par un sol moins acide que la normale."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le cirque du Coire Gaothaich, creusé dans son flanc, est l'un des plus réguliers des Highlands."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

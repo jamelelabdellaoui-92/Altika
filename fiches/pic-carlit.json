@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Pic Carlit",
+  "elevation_m": 2921,
+  "location": "Pyrénées — Cerdagne / Capcir",
+  "country": "France",
+  "summary": "Point culminant des Pyrénées-Orientales, le pic Carlit domine un chaos de lacs glaciaires entre Cerdagne et Capcir, non loin de Font-Romeu.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet est la source de la Têt, principal cours d'eau du département. Granite et schiste composent la montagne, protégée en Natura 2000 depuis 2015."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en 1864 par Henry Russell, grand pionnier pyrénéen."
+    },
+    {
+      "title": "À savoir",
+      "body": "Il partage avec le pic du Canigou un record de covisibilité en ligne droite de 447 km. La neige y couvre le sol de novembre à avril au-dessus de 2 000 m."
+    }
+  ],
+  "first_ascent": "1864 — Henry Russell",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

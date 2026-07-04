@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Pic de Maubermé",
+  "elevation_m": 2882,
+  "location": "Pyrénées — Couserans (Ariège)",
+  "country": "France / Espagne",
+  "summary": "Point culminant du Couserans, le pic de Maubermé marque la frontière entre la commune française de Sentein et la commune espagnole de Naut Aran.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "D'anciennes mines de plomb et de zinc témoignent de l'intérêt métallogénique du secteur, exploité des deux côtés de la frontière."
+    },
+    {
+      "title": "Nature",
+      "body": "La montagne abrite le lézard pyrénéen du val d'Aran, une espèce menacée endémique d'un tout petit secteur des Pyrénées ; des bouquetins ibériques réintroduits depuis 2013 y sont parfois observés."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

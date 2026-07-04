@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "name": "Haute Cime",
+  "elevation_m": 3257,
+  "location": "Alpes — Dents du Midi",
+  "country": "Suisse",
+  "summary": "Plus haute des Dents du Midi, la Haute Cime domine les districts de Monthey et de Saint-Maurice, en Valais.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, de roche sédimentaire, se gravit classiquement par un sentier raide et pierreux depuis le col de Susanfe, où une cabane offre gîte et couvert."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en 1784 par le vicaire Jean-Maurice Clément."
+    }
+  ],
+  "first_ascent": "1784 — le vicaire Jean-Maurice Clément",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

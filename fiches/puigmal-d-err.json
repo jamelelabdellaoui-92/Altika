@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Puigmal d'Err",
+  "elevation_m": 2910,
+  "location": "Pyrénées — Cerdagne",
+  "country": "France / Espagne",
+  "summary": "Deuxième sommet des Pyrénées-Orientales après le pic Carlit, le Puigmal domine la Cerdagne à cheval sur la frontière franco-espagnole.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, en schiste vieux d'environ 550 millions d'années traversé d'intrusions volcaniques plus récentes, se dresse entre la vallée de Saillagouse et celle de Núria."
+    },
+    {
+      "title": "À savoir",
+      "body": "Sur son versant nord, la station de ski d'Err-Puigmal est la plus haute des Pyrénées françaises. Son nom catalan se prononce « Poutchmal »."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

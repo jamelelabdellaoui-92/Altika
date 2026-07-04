@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "name": "Lagginhorn",
+  "elevation_m": 4010,
+  "location": "Alpes pennines — Vallée de Saas",
+  "country": "Suisse",
+  "summary": "Avec le Weissmies et le Fletschhorn, le Lagginhorn forme une chaîne de trois 4 000 au-dessus de Saas-Grund, sur la ligne de partage des eaux entre Adriatique et Méditerranée.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse dans le canton du Valais, desservi entre autres par la cabane Weissmies (2 726 m)."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 26 août 1856 par E. L. Ames, Franz Andenmatten, Johann Josef Imseng et trois compagnons anglais, par l'arête ouest — voie normale actuelle, cotée PD."
+    }
+  ],
+  "first_ascent": "26 août 1856 — E. L. Ames, Franz Andenmatten, Johann Josef Imseng et trois Anglais",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Monte San Petrone",
+  "elevation_m": 1767,
+  "location": "Corse — Massif de la Castagniccia",
+  "country": "France",
+  "summary": "Point culminant de la Castagniccia, région corse tirant son nom de ses châtaigneraies, le Monte San Petrone porte les vestiges d'une basilique parmi les plus anciennes de Corse.",
+  "sections": [
+    {
+      "title": "Histoire",
+      "body": "Les ruines visibles au sommet appartiennent à une basilique fondée vers 598 sur ordre papal — l'un des tout premiers édifices religieux de l'île."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le sommet, en schiste, offre une vue remarquable sur toute la plaine orientale ; une table d'orientation, une croix métallique et un bas-relief de saint Pierre, installé en 2017, l'équipent aujourd'hui. La montagne a aussi donné son nom à un fromage local de brebis affiné au moins 45 jours."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

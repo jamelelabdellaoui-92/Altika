@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "name": "Mięguszowiecki Szczyt Wielki (Veľký Mengusovský štít)",
+  "elevation_m": 2438,
+  "location": "Hautes Tatras — Frontière polono-slovaque",
+  "country": "Pologne / Slovaquie",
+  "summary": "À cheval sur la frontière polono-slovaque, ce sommet porte deux noms officiels selon le versant : Mięguszowiecki Szczyt Wielki côté polonais, Veľký Mengusovský štít côté slovaque.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet appartient à la crête principale des Hautes Tatras, entre les deux parcs nationaux frontaliers."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en 1877 par L. Chałubiński, W. Roj et M. Sieczka."
+    }
+  ],
+  "first_ascent": "1877 — L. Chałubiński, W. Roj et M. Sieczka",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

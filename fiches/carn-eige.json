@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Càrn Eige",
+  "elevation_m": 1180,
+  "location": "Highlands — Glen Affric",
+  "country": "Royaume-Uni",
+  "summary": "Point culminant au nord du Great Glen, Càrn Eige domine la vallée reculée de Glen Affric, souvent citée parmi les plus belles d'Écosse.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, classé Munro et Marilyn, se trouve dans le Highland, non loin du sommet voisin de Mam Sodhail auquel il est relié par une crête."
+    },
+    {
+      "title": "À savoir",
+      "body": "Sa position reculée, loin des routes, en fait l'un des Munros les moins fréquentés malgré son altitude, qui dépasse tous les sommets du nord du Great Glen."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

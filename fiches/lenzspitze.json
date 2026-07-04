@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Lenzspitze",
+  "elevation_m": 4294,
+  "location": "Alpes pennines — Massif des Mischabel",
+  "country": "Suisse",
+  "summary": "Souvent enchaînée avec le Nadelhorn voisin, la Lenzspitze doit son nom au sommet de printemps (« Lenz ») ; l'alpiniste Karl Blodig louait sa « silhouette parfaite ».",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, en gneiss rouge-orangé sur son arête, se situe entre les vallées de Saas et de Zermatt, dans le district de Viège."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en août 1870 par Clinton Thomas Dent avec les guides Alexandre et Franz Burgener. Ses voies vont de AD- à D ; une descente à ski notable y a été réalisée en 1972."
+    },
+    {
+      "title": "À savoir",
+      "body": "22e sommet des Alpes par l'altitude, elle est aussi appelée localement « Südlenz »."
+    }
+  ],
+  "first_ascent": "Août 1870 — Clinton Thomas Dent, avec Alexandre et Franz Burgener",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

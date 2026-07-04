@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Pech de Bugarach",
+  "elevation_m": 1231,
+  "location": "Corbières (Aude)",
+  "country": "France",
+  "summary": "Point culminant des Corbières, le pech de Bugarach doit sa notoriété autant à sa géologie singulière qu'aux légendes ésotériques qui l'entourent.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne est une « montagne renversée » : sous l'effet de plis de charriage, ses couches rocheuses les plus anciennes se retrouvent au-dessus des plus récentes — une curiosité géologique qui a nourri son aura mystérieuse."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le pech est associé depuis les années 2000 à des légendes New Age (activité ovni, trésor caché) ; en 2012, certains le croyaient protégé d'une destruction du monde annoncée par le calendrier maya. Plusieurs itinéraires de randonnée y montent, dont une variante du GR36 et du chemin cathare."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

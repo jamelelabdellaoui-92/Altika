@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Pic de la Munia",
+  "elevation_m": 3133,
+  "location": "Pyrénées centrales — Hautes-Pyrénées / Aragon",
+  "country": "France / Espagne",
+  "summary": "Point culminant commun aux cirques de Troumouse, Barroude et Barrosa, le pic de la Munia marque aussi la ligne de partage des eaux entre l'Adour et l'Èbre.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, à la frontière franco-espagnole, se situe dans le massif de la Munia, entre Hautes-Pyrénées et province de Huesca."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension en 1864 par Victor Paget et Charles Packe. Un ancien glacier en rendait l'accès difficile ; la face nord, côté cirque de Troumouse, comporte un passage technique surnommé « le pas du Chat », coté PD."
+    },
+    {
+      "title": "À savoir",
+      "body": "Les frères Cadier en réalisèrent l'ascension par le col de Robiñera en 1902."
+    }
+  ],
+  "first_ascent": "1864 — Victor Paget et Charles Packe",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

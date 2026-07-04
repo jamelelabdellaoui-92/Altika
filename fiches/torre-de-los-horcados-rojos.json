@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Torre de los Horcados Rojos",
+  "elevation_m": 2503,
+  "location": "Picos de Europa — Massif central (Urrieles)",
+  "country": "Espagne",
+  "summary": "À la frontière naturelle entre Asturies et Cantabrie, la Torre de los Horcados Rojos — aussi appelée Torre de Jorcaos Rojos — est l'un des sommets marquants du massif central des Picos de Europa.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se situe dans le massif central, dit des Urrieles, au cœur du parc national des Picos de Europa."
+    },
+    {
+      "title": "À savoir",
+      "body": "Sa proéminence, modeste (85 m), signale un sommet secondaire de la grande crête, mais sa position en fait un belvédère apprécié du secteur."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

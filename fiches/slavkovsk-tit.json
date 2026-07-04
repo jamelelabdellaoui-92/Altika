@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "name": "Slavkovský štít",
+  "elevation_m": 2452,
+  "location": "Hautes Tatras",
+  "country": "Slovaquie",
+  "summary": "Visible depuis le col de Lomnické sedlo, le Slavkovský štít est l'un des sommets des Hautes Tatras dont l'ascension est documentée depuis le XVIIe siècle.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet, en granodiorite, se situe dans la région de Prešov, sur la crête principale des Hautes Tatras."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "La première ascension connue remonte à 1664, réalisée par Juraj Buchholtz l'Ancien — l'une des plus anciennes dates d'ascension documentées des Tatras. Un sentier balisé bleu, le plus facile du secteur, y mène."
+    }
+  ],
+  "first_ascent": "1664 — Juraj Buchholtz l'Ancien",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

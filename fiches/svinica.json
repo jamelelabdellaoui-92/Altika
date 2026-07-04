@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Świnica (Svinica)",
+  "elevation_m": 2302,
+  "location": "Hautes Tatras — Frontière polono-slovaque",
+  "country": "Pologne / Slovaquie",
+  "summary": "Sommet frontière entre Pologne et Slovaquie, la Świnica marque l'extrémité occidentale des Hautes Tatras dont la proéminence dépasse 100 mètres.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se situe entre la voïvodie de Petite-Pologne et la région de Prešov, dans les parcs nationaux des deux pays."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension documentée en 1867 par Maciej Sieczka."
+    },
+    {
+      "title": "À savoir",
+      "body": "Très fréquentée par les randonneurs, la crête voisine est équipée de chaînes sur ses passages les plus exposés."
+    }
+  ],
+  "first_ascent": "1867 — Maciej Sieczka",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

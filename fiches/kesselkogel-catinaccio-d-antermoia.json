@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Catinaccio d'Antermoia (Kesselkogel)",
+  "elevation_m": 3004,
+  "location": "Dolomites — Groupe du Catinaccio (Rosengarten)",
+  "country": "Italie",
+  "summary": "Point culminant du massif du Catinaccio (Rosengarten), le Kesselkogel doit son nom allemand — « pic de la marmite » — à sa silhouette, et son nom ladin à la légende d'une jeune fille dont les larmes auraient rempli le lac d'Antermoia.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet se dresse à une vingtaine de kilomètres à l'est de Bolzano, entièrement dans la province du Tyrol du Sud, au cœur du parc naturel Sciliar-Catinaccio."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 31 août 1872 par Charles Comyns Tucker et Thomas Henry Carson avec le guide Anton Bernard. Le pilier Dülfer (TD+) et plusieurs via ferrata (A/B) parcourent la montagne."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le massif du Catinaccio est indissociable de la légende du roi Laurin et de son jardin de roses, censé expliquer la teinte rosée du massif au coucher du soleil (l'« enrosadira »)."
+    }
+  ],
+  "first_ascent": "31 août 1872 — Charles Comyns Tucker et Thomas Henry Carson, avec Anton Bernard",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

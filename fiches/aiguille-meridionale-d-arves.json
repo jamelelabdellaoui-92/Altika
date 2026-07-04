@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "name": "Aiguille Méridionale d'Arves",
+  "elevation_m": 3514,
+  "location": "Alpes — Massif des Arves (Maurienne)",
+  "country": "France",
+  "summary": "La plus australe des trois aiguilles d'Arves, sommet dominant de leur massif en Maurienne, a coûté la vie à plusieurs alpinistes dont Raymond Bicknell en 1927.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Les trois aiguilles, en flysch gréso-schisteux de l'Éocène-Oligocène, se dressent à la frontière de la Savoie et des Hautes-Alpes, à environ 50 km à l'est de Grenoble ; elles conservent encore des restes glaciaires."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 22 juillet 1878 par William Auguste Coolidge avec Christian Almer père et fils. La première traversée complète des trois aiguilles, en 1902, demanda trois jours."
+    }
+  ],
+  "first_ascent": "22 juillet 1878 — William Auguste Coolidge, avec Christian Almer père et fils",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

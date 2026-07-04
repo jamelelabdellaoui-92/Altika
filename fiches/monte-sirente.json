@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Monte Sirente",
+  "elevation_m": 2340,
+  "location": "Apennins — Massif du Sirente-Velino (Abruzzes)",
+  "country": "Italie",
+  "summary": "Le Monte Sirente domine le centre des Abruzzes de sa face nord-est, entaillée de gorges creusées par les glaciers du Pléistocène, et abrite à son pied un rare cratère météoritique.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Un cratère d'impact, formé il y a environ 1 500 ans par la chute d'une météorite, forme aujourd'hui un petit lac d'environ 140 m de large — le seul des 155 cratères recensés dans le monde à avoir été identifié en territoire italien."
+    },
+    {
+      "title": "Nature",
+      "body": "Les forêts de hêtres du massif abritent loups des Apennins, ours marsicains et, depuis un programme de réintroduction lancé en 2013, le chamois des Abruzzes. Un petit glacier permanent subsiste sur la montagne."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

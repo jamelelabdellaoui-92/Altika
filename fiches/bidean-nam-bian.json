@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Bidean nam Bian",
+  "elevation_m": 1140,
+  "location": "Highlands — Glencoe",
+  "country": "Royaume-Uni",
+  "summary": "Point culminant d'Argyll, Bidean nam Bian domine Glencoe de son relief complexe, hérissé de crêtes et de sommets secondaires dont les célèbres Three Sisters.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "La montagne se dresse entre Glen Coe au nord et Glen Etive au sud. Le vallon caché de Coire Gabhail, sur son flanc, servait autrefois de cache à bétail au clan MacDonald."
+    },
+    {
+      "title": "À savoir",
+      "body": "En janvier 2013, une avalanche y a tué quatre personnes — la plus meurtrière de l'histoire écossaise récente."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Creag Mèagaidh",
+  "elevation_m": 1126,
+  "location": "Highlands — Glen Spean",
+  "country": "Royaume-Uni",
+  "summary": "Réserve naturelle nationale depuis 1986, Creag Mèagaidh dresse un vaste plateau sommital d'où rayonnent cinq crêtes, au-dessus du cirque du Coire Ardair prisé des grimpeurs de glace.",
+  "sections": [
+    {
+      "title": "Nature",
+      "body": "Les 3 940 hectares de la réserve, gérée par NatureScot, abritent plus de 150 espèces d'invertébrés et 137 espèces d'oiseaux, dont l'outarde cendrée, l'un des oiseaux les plus rares de Grande-Bretagne."
+    },
+    {
+      "title": "À savoir",
+      "body": "Les falaises du Coire Ardair, sur la face nord-est, comptent parmi les grands sites d'escalade hivernale sur glace d'Écosse."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

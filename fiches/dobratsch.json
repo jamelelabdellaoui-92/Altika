@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Dobratsch",
+  "elevation_m": 2155,
+  "location": "Alpes de Gail — Carinthie",
+  "country": "Autriche",
+  "summary": "Sommet le plus fréquenté de Carinthie au-dessus de Villach, le Dobratsch porte depuis 1693 la plus haute église de montagne d'Europe, bâtie par des mineurs et paysans locaux.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Une route de montagne relie Villach à plusieurs points de vue jusqu'à 1 732 m d'altitude. Le versant sud a été le théâtre d'un gigantesque glissement de terrain lors d'un séisme en 1348, dont les traces restent visibles."
+    },
+    {
+      "title": "À savoir",
+      "body": "La chapelle Maria am Stein, à 2 150 m, fut inaugurée le 15 août 1693. Un refuge du Club alpin autrichien et une antenne de diffusion occupent aujourd'hui le sommet."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

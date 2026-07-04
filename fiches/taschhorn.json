@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Täschhorn",
+  "elevation_m": 4490,
+  "location": "Alpes pennines — Massif des Mischabel",
+  "country": "Suisse",
+  "summary": "Deuxième sommet du massif des Mischabel après le Dom, le Täschhorn a vu s'écrire en 1906 l'un des grands exploits de l'alpinisme sur sa face sud-ouest.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le sommet domine le village de Täsch, dans le district de Viège en Valais."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 30 juillet 1862 par Stefan et Johann Zumtaugwald, John Llewelyn Davies, J. W. Hayward et Peter-Josef Summermatter. L'arête dite « Teufelsgrat » (arête du Diable) compte parmi ses itinéraires les plus redoutés."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le grand alpiniste français Patrick Berhault y trouva la mort en 2004, lors d'une traversée d'arête, durant son enchaînement des 82 sommets alpins de plus de 4 000 m."
+    }
+  ],
+  "first_ascent": "30 juillet 1862 — Stefan et Johann Zumtaugwald, J. L. Davies, J. W. Hayward et P.-J. Summermatter",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

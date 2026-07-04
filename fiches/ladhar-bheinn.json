@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "Ladhar Bheinn",
+  "elevation_m": 1013,
+  "location": "Highlands — Péninsule de Knoydart",
+  "country": "Royaume-Uni",
+  "summary": "Munro le plus occidental d'Écosse continentale, Ladhar Bheinn (« la montagne du sabot ») veille sur la péninsule sauvage de Knoydart, accessible seulement à pied ou par bateau.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Deuxième sommet de Knoydart après le Sgùrr na Cìche, la montagne se gravit généralement depuis Barrisdale ou le hameau d'Inverie, eux-mêmes coupés du réseau routier."
+    },
+    {
+      "title": "À savoir",
+      "body": "Le grand tour de Knoydart, qui l'inclut, impose de longs passages sur rochers et parois rocheuses, notamment près du sommet secondaire du Stob a' Chearcaill — l'un des Munros les plus isolés du Royaume-Uni."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Grand Combin (pointe de Graffeneire)",
+  "elevation_m": 4314,
+  "location": "Alpes pennines — Val de Bagnes",
+  "country": "Suisse",
+  "summary": "Point culminant du massif du Grand Combin, la pointe de Graffeneire domine le val de Bagnes et le val d'Entremont — le plus haut sommet entre le mont Blanc et la Dent Blanche.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le glacier de Corbassière descend de sa face nord ; le massif comprend trois sommets principaux le long de sa crête."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 30 juillet 1859 par Charles Sainte-Claire Deville avec les guides Daniel, Emmanuel et Gaspard Balleys et Basile Dorsaz. Une première ascension à ski y fut réalisée en 1907 par Marcel Kurz."
+    },
+    {
+      "title": "À savoir",
+      "body": "Certains passages du massif empruntent des noms inspirés du mont Blanc voisin, comme « le Corridor »."
+    }
+  ],
+  "first_ascent": "30 juillet 1859 — Charles Sainte-Claire Deville, avec Daniel, Emmanuel et Gaspard Balleys et Basile Dorsaz",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

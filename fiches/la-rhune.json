@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "name": "La Rhune (Larrun)",
+  "elevation_m": 905,
+  "location": "Pyrénées — Pays basque",
+  "country": "France / Espagne",
+  "summary": "Sommet emblématique du Pays basque à cheval sur la frontière franco-espagnole, la Rhune se gravit depuis 1924 par un petit train à crémaillère au départ du col de Saint-Ignace.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le massif, d'environ 12 km du nord au sud et 6 km d'est en ouest, est façonné de grès d'âge permien et reste un haut lieu du pastoralisme basque traditionnel, avec ses pottoks et ses brebis à tête noire."
+    },
+    {
+      "title": "Histoire",
+      "body": "En 1609, lors des grands procès de sorcellerie basques, la montagne fut désignée comme lieu de sabbat. La légende locale évoque aussi un serpent souterrain à sept queues qui aurait déposé des métaux précieux sur ses pentes."
+    }
+  ],
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}

@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "name": "Triglav",
+  "elevation_m": 2801,
+  "location": "Alpes juliennes",
+  "country": "Slovénie",
+  "summary": "Point culminant et symbole national de la Slovénie, le Triglav (« les trois têtes ») figure sur le drapeau et les pièces slovènes de 50 centimes d'euro.",
+  "sections": [
+    {
+      "title": "Géographie",
+      "body": "Le massif, à 60 km au nord-ouest de Ljubljana, abrite un vaste système karstique calcaire parmi les plus étendus d'Europe, ainsi qu'un névé glaciaire vieux de 500 ans, le Zeleni Sneg, en fort recul."
+    },
+    {
+      "title": "Alpinisme",
+      "body": "Première ascension le 26 août 1778 par Luka Korošec, Matija Kos, Štefan Rožič et Lovrenc Willomitzer. Une tour métallique, l'Aljažev stolp, installée en 1895 au sommet, sert d'abri d'urgence."
+    },
+    {
+      "title": "À savoir",
+      "body": "Un observatoire météorologique y enregistre le climat alpin depuis 1896. Le parc national du Triglav (840 km²), qui l'entoure, est le seul parc national de Slovénie."
+    }
+  ],
+  "first_ascent": "26 août 1778 — Luka Korošec, Matija Kos, Štefan Rožič et Lovrenc Willomitzer",
+  "source": "Données publiques (Wikipédia, OpenStreetMap)"
+}
